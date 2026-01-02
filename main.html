@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Usecase Hub - Browse Use Cases</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="main-page">
+    <!-- Load usecases.js first if it exists -->
+    <script src="usecases.js"></script>
+
+    <!-- Header -->
+    <header class="main-header">
+        <div class="header-left">
+            <img src="logo.png" alt="Usecase Hub Logo" class="header-logo">
+            <h1 class="header-title">Usecase Hub</h1>
+        </div>
+        <div class="header-search">
+            <input type="text" id="searchInput" placeholder="Search usecases (title, description, tags)...">
+        </div>
+    </header>
+
+    <div class="main-container">
+        <!-- Sidebar Filters -->
+        <aside class="sidebar">
+            <div class="filters-section">
+                <h3 class="filter-title">Filters</h3>
+
+                <div class="filter-group">
+                    <h4 class="filter-heading">Category</h4>
+                    <div id="categoryFilters" class="filter-options">
+                        <!-- Dynamically populated -->
+                    </div>
+                </div>
+
+                <div class="filter-group">
+                    <h4 class="filter-heading">Industry</h4>
+                    <div id="industryFilters" class="filter-options">
+                        <!-- Dynamically populated -->
+                    </div>
+                </div>
+
+                <div class="filter-group">
+                    <h4 class="filter-heading">Tech Stack</h4>
+                    <div id="techStackFilters" class="filter-options">
+                        <!-- Dynamically populated -->
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <div class="results-header">
+                <p id="resultsCount">Showing 0 use cases</p>
+            </div>
+
+            <div id="usecasesGrid" class="usecases-grid">
+                <!-- Dynamically populated -->
+            </div>
+        </main>
+    </div>
+
+    <!-- Modal for Use Case Details -->
+    <div id="usecaseModal" class="modal">
+        <div class="modal-overlay"></div>
+        <div class="modal-content">
+            <button class="modal-close">&times;</button>
+            <div id="modalBody">
+                <!-- Dynamically populated -->
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js?v=3"></script>
+</body>
+
+</html>
