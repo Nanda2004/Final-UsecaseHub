@@ -13,8 +13,8 @@ function Header({ searchQuery, setSearchQuery, toggleSidebar }) {
                     <span></span>
                     <span></span>
                 </button>
-                <img src="/logo.png" alt="Usecase Hub Logo" className={styles.headerLogo} />
-                <h1 className={styles.headerTitle}>Usecase Hub</h1>
+                <img src="/logo.png" alt="Kodryx Usecase Hub Logo" className={styles.headerLogo} />
+                <h1 className={styles.headerTitle}>Kodryx Usecase Hub</h1>
             </div>
             <div className={styles.headerSearch}>
                 <input

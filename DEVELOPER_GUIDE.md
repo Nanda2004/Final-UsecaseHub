@@ -1,6 +1,6 @@
 # Developer Guide: Adding More Use Cases
 
-This guide provides step-by-step instructions for future developers to add more use cases (e.g., 601 additional use cases from PDF sources) to the Usecase Hub application.
+This guide provides step-by-step instructions for future developers to add more use cases (e.g., 601 additional use cases from PDF sources) to the Kodryx Usecase Hub application.
 
 ---
 

@@ -1,4 +1,4 @@
-# Usecase Hub - Gen AI Use Cases
+# Kodryx Usecase Hub - Gen AI Use Cases
 
 A modern, responsive React application showcasing 101 real-world Gen AI use cases from leading organizations. Built with Vite + React for fast performance and easy deployment.
 

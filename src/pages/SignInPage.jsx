@@ -33,9 +33,9 @@ function SignInPage() {
                 {/* Left Panel */}
                 <div className={styles.signinLeft}>
                     <div className={styles.logoContainer}>
-                        <img src="/logo.png" alt="Usecase Hub Logo" className={styles.logo} />
+                        <img src="/logo.png" alt="Kodryx Usecase Hub Logo" className={styles.logo} />
                     </div>
-                    <h1 className={styles.brandTitle}>Usecase Hub</h1>
+                    <h1 className={styles.brandTitle}>Kodryx Usecase Hub</h1>
                     <p className={styles.brandDescription}>
                         Discover 101 real-world Gen AI use cases from the world's leading organizations
                     </p>
@@ -46,7 +46,7 @@ function SignInPage() {
                             <div className={styles.statLabel}>Use Cases</div>
                         </div>
                         <div className={styles.statBox}>
-                            <div className={styles.statNumber}>10+</div>
+                            <div className={styles.statNumber}>40+</div>
                             <div className={styles.statLabel}>Industries</div>
                         </div>
                     </div>
