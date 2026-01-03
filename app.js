@@ -46,12 +46,16 @@ async function loadUsecases() {
         }
 
         // Load from usecases.js (which sets window.additionalUsecases)
+        // DISABLED: Only showing 101 use cases from usecases_101.json
+        /*
         if (typeof window.additionalUsecases !== 'undefined' && Array.isArray(window.additionalUsecases)) {
             allUsecases = [...allUsecases, ...window.additionalUsecases];
             console.log(`Loaded ${window.additionalUsecases.length} use cases from usecases.js`);
         } else {
             console.warn('window.additionalUsecases is not defined or not an array');
         }
+        */
+        console.log('Additional use cases from usecases.js are disabled - showing only 101 use cases');
 
         // Ensure each usecase has a valid ID
         allUsecases = allUsecases.map((uc, index) => {
