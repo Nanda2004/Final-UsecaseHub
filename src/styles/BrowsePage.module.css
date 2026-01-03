@@ -1,0 +1,50 @@
+/* Browse Page Styles */
+.browsePage {
+    background: var(--gray-100);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.mainContainer {
+    display: flex;
+    flex: 1;
+    min-height: calc(100vh - 80px);
+}
+
+.mainContent {
+    flex: 1;
+    padding: 30px 40px;
+    overflow-y: auto;
+}
+
+.resultsHeader {
+    margin-bottom: 20px;
+}
+
+.resultsHeader p {
+    font-size: 16px;
+    color: var(--gray-500);
+    font-weight: 500;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    .mainContent {
+        padding: 24px 30px;
+    }
+}
+
+@media (max-width: 768px) {
+    .mainContainer {
+        flex-direction: column;
+    }
+
+    .mainContent {
+        padding: 20px 16px;
+    }
+
+    .resultsHeader p {
+        font-size: 14px;
+    }
+}

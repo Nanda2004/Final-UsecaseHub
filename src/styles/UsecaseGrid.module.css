@@ -1,0 +1,44 @@
+/* Use Case Grid Styles */
+.usecasesGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+    gap: 24px;
+}
+
+.emptyState {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--gray-500);
+}
+
+.emptyState p {
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+
+.emptySubtext {
+    font-size: 14px;
+    color: var(--gray-400);
+}
+
+/* Responsive Design */
+@media (max-width: 1200px) {
+    .usecasesGrid {
+        grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+        gap: 20px;
+    }
+}
+
+@media (max-width: 768px) {
+    .usecasesGrid {
+        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+        gap: 16px;
+    }
+}
+
+@media (max-width: 480px) {
+    .usecasesGrid {
+        grid-template-columns: 1fr;
+        gap: 16px;
+    }
+}
