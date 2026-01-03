@@ -20,21 +20,65 @@ A modern, responsive React application showcasing 101 real-world Gen AI use case
 - **State Management**: Custom React Hooks
 - **Deployment**: Vercel / Netlify ready
 
-## 📦 Installation
+## 🚀 Getting Started
+
+### Prerequisites
+
+Before you begin, ensure you have the following installed:
+- **Node.js** (version 16 or higher) - [Download here](https://nodejs.org/)
+- **npm** (comes with Node.js) or **yarn**
+- **Git** - [Download here](https://git-scm.com/)
+
+### Step-by-Step Instructions to Run the Project
+
+#### 1. Clone the Repository
 
 ```bash
-# Clone the repository
 git clone https://github.com/srivardhan-kondu/Final-UsecaseHub.git
+```
+
+#### 2. Navigate to Project Directory
+
+```bash
 cd Final-UsecaseHub
+```
 
-# Install dependencies
+#### 3. Install Dependencies
+
+```bash
 npm install
+```
 
-# Start development server
+This will install all required packages including React, Vite, React Router, and other dependencies.
+
+#### 4. Start the Development Server
+
+```bash
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser.
+#### 5. Open in Browser
+
+The application will automatically start on [http://localhost:5173](http://localhost:5173)
+
+Open your browser and navigate to:
+```
+http://localhost:5173
+```
+
+#### 6. Using the Application
+
+1. **Sign In**: Enter your name, email, and organization on the landing page
+2. **Browse**: Explore 101 Gen AI use cases
+3. **Search**: Use the search bar to find specific use cases
+4. **Filter**: Apply filters by Category, Industry, or Tech Stack
+5. **View Details**: Click on any use case card to see full details
+
+### Quick Start (One Command)
+
+```bash
+git clone https://github.com/srivardhan-kondu/Final-UsecaseHub.git && cd Final-UsecaseHub && npm install && npm run dev
+```
 
 ## 🚀 Deployment
 
