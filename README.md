@@ -1,78 +1,148 @@
-# How to Connect Your usecases.ts Data
+# Usecase Hub - Gen AI Use Cases
 
-## Current Status
-- ✅ Application is loading **102 use cases** from `usecases_101.json`
-- ⏳ Waiting for `usecases.ts` data to be saved
+A modern, responsive React application showcasing 101 real-world Gen AI use cases from leading organizations. Built with Vite + React for fast performance and easy deployment.
 
-## Steps to Add Your Data
+## ✨ Features
 
-### Option 1: Using usecases.ts (Recommended)
+- 🔍 **Real-time Search** - Search across titles, descriptions, and tech stacks
+- 🎛️ **Advanced Filters** - Filter by Category, Industry, and Tech Stack
+- 📱 **Fully Responsive** - Optimized for mobile, tablet, and desktop
+- 🎨 **Modern UI** - Clean design with smooth animations
+- ⚡ **Fast Performance** - Built with Vite for lightning-fast builds
+- 🚀 **Deploy-Ready** - Configured for Vercel, Netlify, and GitHub Pages
 
-1. **Save your usecases.ts file** (Ctrl+S) - IMPORTANT!
+## 🛠️ Tech Stack
 
-2. **Convert it to JavaScript** by running ONE of these commands:
+- **Framework**: React 18
+- **Build Tool**: Vite
+- **Routing**: React Router v6
+- **Styling**: CSS Modules
+- **State Management**: Custom React Hooks
+- **Deployment**: Vercel / Netlify ready
 
-   **Using PowerShell:**
-   ```powershell
-   Get-Content "usecases.ts" -Raw | ForEach-Object { $_ -replace 'export const additionalUsecases.*?=', 'window.additionalUsecases =' -replace 'export interface.*?{[^}]*}', '' } | Out-File -Encoding UTF8 "usecases.js"
-   ```
+## 📦 Installation
 
-   **OR manually:**
-   - Open `usecases.ts`
-   - Copy everything from the `additionalUsecases` array (the `[...]` part)
-   - Open `usecases.js`
-   - Replace the empty array with your data:
-     ```javascript
-     window.additionalUsecases = [ /* paste your data here */ ];
-     ```
+```bash
+# Clone the repository
+git clone https://github.com/srivardhan-kondu/Final-UsecaseHub.git
+cd Final-UsecaseHub
 
-3. **Refresh your browser** - The data will load automatically!
+# Install dependencies
+npm install
 
-### Option 2: Direct Copy-Paste
-
-1. Open `usecases.js`
-2. Paste your use case data into the `window.additionalUsecases` array
-3. Make sure each use case has this structure:
-   ```javascript
-   {
-     usecase_id: 103,
-     title: "Your title",
-     summary: "Your summary",
-     sections: {
-       business_challenge: { heading: "Business challenge", content: "..." },
-       tech_stack: { heading: "Tech stack", items: ["Tech1", "Tech2"] },
-       blueprint: { heading: "Blueprint", content: "..." }
-     },
-     category: "Customer",
-     industry: "Retail"
-   }
-   ```
-4. Save and refresh browser
-
-## How It Works
-
-The application loads data in this order:
-1. **First**: Loads `usecases_101.json` (102 use cases)
-2. **Then**: Loads `usecases.js` (your additional use cases)
-3. **Combines**: Both datasets and displays the total
-
-## Troubleshooting
-
-**If you see 0 use cases:**
-- Check browser console (F12) for errors
-- Make sure `usecases_101.json` exists
-- Verify the server is running on port 8000
-
-**If you see only 102 use cases:**
-- Your `usecases.js` file might be empty or have errors
-- Check browser console for JavaScript errors
-- Make sure `usecases.js` is in the same folder as `index.html`
-
-## Quick Test
-
-Open browser console (F12) and type:
-```javascript
-console.log(window.additionalUsecases);
+# Start development server
+npm run dev
 ```
 
-This should show your additional use cases if they're loaded correctly.
+Open [http://localhost:5173](http://localhost:5173) in your browser.
+
+## 🚀 Deployment
+
+### Build for Production
+
+```bash
+npm run build
+```
+
+The optimized production build will be in the `dist/` folder.
+
+### Deploy to Vercel
+
+```bash
+npm install -g vercel
+vercel --prod
+```
+
+### Deploy to Netlify
+
+```bash
+npm install -g netlify-cli
+netlify deploy --prod
+```
+
+### Deploy to GitHub Pages
+
+```bash
+npm run build
+# Push the dist/ folder to gh-pages branch
+```
+
+## 📁 Project Structure
+
+```
+Final-UsecaseHub/
+├── public/              # Static assets
+│   └── logo.png
+├── src/
+│   ├── components/      # React components
+│   │   ├── Header.jsx
+│   │   ├── Sidebar.jsx
+│   │   ├── UsecaseGrid.jsx
+│   │   ├── UsecaseCard.jsx
+│   │   └── UsecaseModal.jsx
+│   ├── pages/           # Page components
+│   │   ├── SignInPage.jsx
+│   │   └── BrowsePage.jsx
+│   ├── hooks/           # Custom React hooks
+│   │   ├── useUsecases.js
+│   │   └── useFilters.js
+│   ├── styles/          # CSS Modules
+│   │   └── *.module.css
+│   ├── data/            # JSON data
+│   │   └── usecases_101.json
+│   ├── App.jsx          # Main app component
+│   └── main.jsx         # Entry point
+├── index.html           # HTML template
+├── package.json         # Dependencies
+├── vite.config.js       # Vite configuration
+├── vercel.json          # Vercel config
+└── netlify.toml         # Netlify config
+```
+
+## 🎯 Use Cases
+
+The application showcases **101 Gen AI use cases** across various industries:
+
+- **Retail** - E-commerce, inventory management, customer service
+- **Media & Entertainment** - Content creation, personalization
+- **Automotive & Logistics** - Fleet management, supply chain
+- **Healthcare** - Patient care, diagnostics
+- **Finance** - Risk analysis, fraud detection
+- **Manufacturing** - Quality control, predictive maintenance
+- And more...
+
+## 📱 Responsive Design
+
+- **Mobile** (320px - 768px): Single column layout, hamburger menu
+- **Tablet** (768px - 1024px): Two-column grid, collapsible sidebar
+- **Desktop** (1024px+): Three-column grid, fixed sidebar
+
+## 🔧 Development
+
+```bash
+# Start dev server
+npm run dev
+
+# Build for production
+npm run build
+
+# Preview production build
+npm run preview
+```
+
+## 📄 License
+
+This project is open source and available under the MIT License.
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## 👨‍💻 Author
+
+**Srivardhan Kondu**
+- GitHub: [@srivardhan-kondu](https://github.com/srivardhan-kondu)
+
+---
+
+Built with ❤️ using React and Vite
