@@ -1,0 +1,108 @@
+/* Use Case Card Styles */
+.usecaseCard {
+    background: white;
+    border: 1px solid var(--gray-200);
+    border-radius: var(--radius-lg);
+    padding: 24px;
+    cursor: pointer;
+    transition: all var(--transition-base);
+}
+
+.usecaseCard:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-lg);
+    border-color: var(--primary-gold);
+}
+
+.usecaseHeader {
+    margin-bottom: 12px;
+}
+
+.usecaseTitle {
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--primary-blue);
+    margin-bottom: 8px;
+    line-height: 1.4;
+}
+
+.usecaseCategory {
+    display: inline-block;
+    font-size: 12px;
+    color: var(--gray-500);
+    background: var(--gray-100);
+    padding: 4px 10px;
+    border-radius: var(--radius-sm);
+    margin-bottom: 12px;
+}
+
+.usecaseSummary {
+    font-size: 14px;
+    color: var(--gray-600);
+    margin-bottom: 16px;
+    line-height: 1.5;
+}
+
+.usecaseTags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 12px;
+}
+
+.tag {
+    font-size: 11px;
+    padding: 5px 10px;
+    border-radius: var(--radius-full);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+}
+
+.tagPrimary {
+    background: var(--primary-blue);
+    color: white;
+}
+
+.tagSecondary {
+    background: var(--primary-gold);
+    color: white;
+}
+
+.tagTertiary {
+    background: var(--gray-200);
+    color: var(--gray-600);
+}
+
+.viewDetails {
+    color: var(--primary-gold);
+    font-size: 14px;
+    font-weight: 600;
+    margin-top: 12px;
+    display: inline-block;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .usecaseCard {
+        padding: 20px;
+    }
+
+    .usecaseTitle {
+        font-size: 16px;
+    }
+
+    .usecaseSummary {
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 480px) {
+    .usecaseCard {
+        padding: 16px;
+    }
+
+    .usecaseTitle {
+        font-size: 15px;
+    }
+}
