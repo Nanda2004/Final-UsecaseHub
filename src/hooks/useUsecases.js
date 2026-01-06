@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import usecasesData from '../data/usecases_101.json';
 import usecases50Data from '../data/usecases_50.json';
+import usecaseLinks from '../data/usecase_links.json';
 
 export function useUsecases() {
     const [allUsecases, setAllUsecases] = useState([]);
@@ -14,31 +15,40 @@ export function useUsecases() {
 
     // Load use cases on mount
     useEffect(() => {
-        // Transform the new use cases to match the existing schema
-        const transformedNewUsecases = usecases50Data.useCases.map(uc => ({
-            usecase_id: uc.id + 101, // Offset IDs to avoid collision
-            title: uc.company, // Map Company to Title as requested
-            summary: uc.businessChallenge,
-            sections: {
-                business_challenge: {
-                    heading: "Business challenge",
-                    content: uc.businessChallenge
-                },
-                tech_stack: {
-                    heading: "Tech stack",
-                    items: uc.techStack
-                },
-                blueprint: {
-                    heading: "Blueprint",
-                    content: uc.implementationBlueprint
-                }
-            },
-            category: uc.agentType,
-            industry: uc.industry,
-            source_pdf: "New Use Cases"
-        }));
+        // Helper to add link to use case
+        const addLink = (usecase) => ({
+            ...usecase,
+            landing_page: usecaseLinks[usecase.usecase_id] || null
+        });
 
-        const combinedData = [...usecasesData, ...transformedNewUsecases];
+        // Transform the new use cases to match the existing schema
+        const transformedNewUsecases = usecases50Data.useCases.map(uc => {
+            const transformed = {
+                usecase_id: uc.id + 101, // Offset IDs to avoid collision
+                title: uc.company, // Map Company to Title as requested
+                summary: uc.businessChallenge,
+                sections: {
+                    business_challenge: {
+                        heading: "Business challenge",
+                        content: uc.businessChallenge
+                    },
+                    tech_stack: {
+                        heading: "Tech stack",
+                        items: uc.techStack
+                    },
+                    blueprint: {
+                        heading: "Blueprint",
+                        content: uc.implementationBlueprint
+                    }
+                },
+                category: uc.agentType,
+                industry: uc.industry,
+                source_pdf: "New Use Cases"
+            };
+            return addLink(transformed);
+        });
+
+        const combinedData = [...usecasesData.map(addLink), ...transformedNewUsecases];
 
         setAllUsecases(combinedData);
         setFilteredUsecases(combinedData);

@@ -31,7 +31,21 @@ function UsecaseCard({ usecase, onClick }) {
                 )}
             </div>
 
-            <span className={styles.viewDetails}>View Details →</span>
+            <div className={styles.cardFooter}>
+                <span className={styles.viewDetails}>View Details →</span>
+                <a
+                    href={usecase.landing_page || '#'}
+                    target={usecase.landing_page ? "_blank" : "_self"}
+                    rel="noopener noreferrer"
+                    className={`${styles.viewMoreLink} ${!usecase.landing_page ? styles.disabled : ''}`}
+                    onClick={(e) => {
+                        if (!usecase.landing_page) e.preventDefault();
+                        e.stopPropagation();
+                    }}
+                >
+                    View More
+                </a>
+            </div>
         </div>
     );
 }

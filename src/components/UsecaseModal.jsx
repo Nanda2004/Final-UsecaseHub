@@ -78,6 +78,29 @@ function UsecaseModal({ usecase, onClose }) {
                             {blueprint}
                         </div>
                     </div>
+
+                    {usecase.landing_page && (
+                        <div className={styles.modalSection}>
+                            <a
+                                href={usecase.landing_page}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className={styles.viewMoreButton}
+                                style={{
+                                    display: 'inline-block',
+                                    marginTop: '20px',
+                                    padding: '10px 20px',
+                                    backgroundColor: '#1a73e8',
+                                    color: 'white',
+                                    textDecoration: 'none',
+                                    borderRadius: '4px',
+                                    fontWeight: '500'
+                                }}
+                            >
+                                View More Details
+                            </a>
+                        </div>
+                    )}
                 </div>
             </div>
         </div>
