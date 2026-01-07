@@ -34,7 +34,10 @@ function UsecaseModal({ usecase, onClose }) {
                 </button>
 
                 <div className={styles.modalBody}>
-                    <h2 className={styles.modalTitle}>{usecase.title}</h2>
+                    <div className={styles.modalTitleSection}>
+                        <span className={styles.usecaseNumber}>Use Case #{usecase.usecase_id}</span>
+                        <h2 className={styles.modalTitle}>{usecase.title}</h2>
+                    </div>
 
                     <div className={styles.modalCategories}>
                         <span className={`${styles.modalCategoryTag} ${styles.primary}`}>

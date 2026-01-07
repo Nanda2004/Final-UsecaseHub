@@ -1,7 +1,8 @@
 import { useState, useEffect } from 'react';
 import usecasesData from '../data/usecases_101.json';
 import usecases50Data from '../data/usecases_50.json';
-import usecaseLinks from '../data/usecase_links.json';
+import usecaseLinks101 from '../data/usecase_links_101.json';
+import usecaseLinks50 from '../data/usecase_links_50.json';
 
 export function useUsecases() {
     const [allUsecases, setAllUsecases] = useState([]);
@@ -15,10 +16,16 @@ export function useUsecases() {
 
     // Load use cases on mount
     useEffect(() => {
-        // Helper to add link to use case
-        const addLink = (usecase) => ({
+        // Helper to add link to use case from usecases_101
+        const addLink101 = (usecase) => ({
             ...usecase,
-            landing_page: usecaseLinks[usecase.usecase_id] || null
+            landing_page: usecaseLinks101[usecase.usecase_id] || null
+        });
+
+        // Helper to add link to use case from usecases_50
+        const addLink50 = (usecase) => ({
+            ...usecase,
+            landing_page: usecaseLinks50[usecase.id] || null
         });
 
         // Transform the new use cases to match the existing schema
@@ -43,16 +50,18 @@ export function useUsecases() {
                 },
                 category: uc.agentType,
                 industry: uc.industry,
-                source_pdf: "New Use Cases"
+                source_pdf: "New Use Cases",
+                landing_page: usecaseLinks50[uc.id] || null // Add link directly using original ID
             };
-            return addLink(transformed);
+            return transformed;
         });
 
-        const combinedData = [...usecasesData.map(addLink), ...transformedNewUsecases];
+        const combinedData = [...usecasesData.map(addLink101), ...transformedNewUsecases];
 
         setAllUsecases(combinedData);
         setFilteredUsecases(combinedData);
     }, []);
+
 
     // Apply filters and search
     useEffect(() => {
