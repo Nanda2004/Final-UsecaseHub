@@ -3873,6 +3873,2598 @@
         "Video Trends"
       ],
       "implementationBlueprint": "Video trend identified -> Google Cloud powers -> Mobile solution built -> Quick deployment achieved -> Viral content created"
+    },
+    {
+      "id": 300,
+      "industry": "Media, Marketing & Gaming",
+      "agentType": "Data Agents",
+      "company": "Formula E",
+      "businessChallenge": "Formula E developed its Driver Agent, an AI tool powered by Vertex AI and Gemini. The Driver Agent is designed to analyze extensive multimodal data generated during racing and provide actionable insights to drivers.",
+      "techStack": [
+        "Vertex AI",
+        "Gemini",
+        "Multimodal Analysis",
+        "Real-time Racing Data"
+      ],
+      "implementationBlueprint": "Race data collected -> Driver Agent analyzes -> Multimodal insights generated -> Real-time decisions informed -> Competitive edge gained"
+    },
+    {
+      "id": 301,
+      "industry": "Media, Marketing & Gaming",
+      "agentType": "Data Agents",
+      "company": "Jaguar TCS Racing",
+      "businessChallenge": "Jaguar TCS Racing is partnering with Google Cloud to use AI for real-time analysis of race car performance data, giving them a competitive edge in Formula E racing. This collaboration aims to improve its on-track decision-making and help secure the team's and drivers' wins and titles.",
+      "techStack": [
+        "Google Cloud",
+        "Real-time Analytics",
+        "Performance Data"
+      ],
+      "implementationBlueprint": "Race car data streamed -> AI analyzes performance -> Real-time insights generated -> On-track decisions optimized -> Competitive advantage secured"
+    },
+    {
+      "id": 302,
+      "industry": "Media, Marketing & Gaming",
+      "agentType": "Data Agents",
+      "company": "McLaren Racing",
+      "businessChallenge": "McLaren Racing is using Google AI to get up-to-the-millisecond insights during races and training to gain a competitive edge.",
+      "techStack": [
+        "Google AI",
+        "Real-time Analytics",
+        "Racing Telemetry"
+      ],
+      "implementationBlueprint": "Race/training data captured -> AI processes millisecond data -> Insights delivered instantly -> Performance optimized -> Competitive edge gained"
+    },
+    {
+      "id": 303,
+      "industry": "Media, Marketing & Gaming",
+      "agentType": "Data Agents",
+      "company": "NewsCorp",
+      "businessChallenge": "NewsCorp uses Vertex AI to help search data across 30,000 sources and 2.5 billion news articles updated daily.",
+      "techStack": [
+        "Vertex AI",
+        "News Search",
+        "Data Analytics"
+      ],
+      "implementationBlueprint": "News sources aggregated -> Vertex AI indexes content -> Search queries processed -> Relevant articles surfaced -> Daily updates integrated"
+    },
+    {
+      "id": 304,
+      "industry": "Media, Marketing & Gaming",
+      "agentType": "Data Agents",
+      "company": "Spotify",
+      "businessChallenge": "Spotify leveraged Dataflow for large-scale generation of ML podcast previews and plans to keep pushing the boundaries of what's possible with data engineering and data science to build better experiences for its customers and creators.",
+      "techStack": [
+        "Dataflow",
+        "Machine Learning",
+        "Podcast Processing"
+      ],
+      "implementationBlueprint": "Podcast content analyzed -> ML generates previews -> Large-scale processing via Dataflow -> Previews delivered to users -> Creator experiences enhanced"
+    },
+    {
+      "id": 305,
+      "industry": "Media, Marketing & Gaming",
+      "agentType": "Data Agents",
+      "company": "United Daily News Group",
+      "businessChallenge": "The United Daily News Group in Taiwan worked with Merkle to develop a new AI model using Vertex AI — creating and training an AI model in just eight months that can deliver more accurate ad targeting, increasing clickthrough rate as much as four times in some categories.",
+      "techStack": [
+        "Vertex AI",
+        "Ad Targeting",
+        "Machine Learning"
+      ],
+      "implementationBlueprint": "AI model developed -> Training completed in 8 months -> Ad targeting optimized -> Clickthrough rates increased 4x -> Categories improved"
+    },
+    {
+      "id": 306,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Customer Agents",
+      "company": "Alma",
+      "businessChallenge": "Alma, part of the Google for Startups Cloud AI Accelerator, provides personalized application support, including fast document processing with AI, to simplify US immigration for top global talent.",
+      "techStack": [
+        "Google Cloud AI",
+        "Document Processing",
+        "Immigration Tech"
+      ],
+      "implementationBlueprint": "Immigration documents submitted -> AI processes documents -> Application support provided -> Process simplified -> Global talent assisted"
+    },
+    {
+      "id": 307,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Customer Agents",
+      "company": "Beyond 12",
+      "businessChallenge": "Beyond 12 developed an AI-powered conversational coach with the help of Gemini 1.0 Pro. It is designed to serve first-generation college students from under-resourced communities. The AI tool interacts with students, knows their history and goals, answers questions, and evaluates their progress in a personalized way, without comparing them to others.",
+      "techStack": [
+        "Gemini 1.0 Pro",
+        "Conversational AI",
+        "Student Coaching"
+      ],
+      "implementationBlueprint": "Student engages with coach -> AI accesses history and goals -> Questions answered -> Progress evaluated -> Personalized guidance provided"
+    },
+    {
+      "id": 308,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Customer Agents",
+      "company": "Bower",
+      "businessChallenge": "Bower, a Swedish startup, has created an app to gamify recycling, offering rewards to users across the Nordics and UK; they've integrated generative AI into the service so users can more easily identify and input recyclable goods into the app.",
+      "techStack": [
+        "Generative AI",
+        "Recycling App",
+        "Gamification"
+      ],
+      "implementationBlueprint": "User scans item -> Gen AI identifies recyclable -> Item logged in app -> Rewards earned -> Recycling gamified"
+    },
+    {
+      "id": 309,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Customer Agents",
+      "company": "CareerVillage",
+      "businessChallenge": "CareerVillage is building an app called Coach to empower job seekers, especially underrepresented youth, in their career preparedness; already featuring 35 career development activities, the aim is to have more than 100 by next year.",
+      "techStack": [
+        "Career Coaching AI",
+        "Mobile App",
+        "Career Development"
+      ],
+      "implementationBlueprint": "Job seeker uses Coach app -> Career activities accessed -> Skills developed -> Preparation enhanced -> Employment readiness improved"
+    },
+    {
+      "id": 310,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Customer Agents",
+      "company": "Central Texas Regional Mobility Authority",
+      "businessChallenge": "The Central Texas Regional Mobility Authority is using Vertex AI to modernize transportation operations for a smoother, more efficient journey.",
+      "techStack": [
+        "Vertex AI",
+        "Transportation Operations",
+        "Infrastructure"
+      ],
+      "implementationBlueprint": "Transportation data collected -> Vertex AI analyzes operations -> Efficiency improvements identified -> Journey smoothness enhanced -> Operations modernized"
+    },
+    {
+      "id": 311,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Customer Agents",
+      "company": "Justicia Lab",
+      "businessChallenge": "Justicia Lab is developing an AI-powered assistant that will simplify legal processes for asylum seekers and immigrants; by uploading a picture from a legal letter or document, users can extract valuable information and then receive personalized guidance and next steps.",
+      "techStack": [
+        "AI Assistant",
+        "Document Processing",
+        "Legal Tech"
+      ],
+      "implementationBlueprint": "Document photo uploaded -> AI extracts information -> Legal guidance generated -> Next steps provided -> Immigration process simplified"
+    },
+    {
+      "id": 312,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Customer Agents",
+      "company": "Minnesota Division of Driver and Vehicle Services",
+      "businessChallenge": "The Minnesota Division of Driver and Vehicle Services helps non-English speakers get licenses and other services with two-way, real-time translation.",
+      "techStack": [
+        "Real-time Translation",
+        "Government Services",
+        "Multilingual AI"
+      ],
+      "implementationBlueprint": "Non-English speaker requests service -> Real-time translation activated -> Two-way communication enabled -> Service provided -> Language barrier eliminated"
+    },
+    {
+      "id": 313,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Customer Agents",
+      "company": "mRelief",
+      "businessChallenge": "mRelief has built an SMS-accessible AI chatbot to simplify the application process for the SNAP food assistance program in the U.S., featuring easy-to-understand eligibility information and direct assistance within minutes rather than days.",
+      "techStack": [
+        "SMS Chatbot",
+        "AI Assistant",
+        "Government Benefits"
+      ],
+      "implementationBlueprint": "User texts chatbot -> Eligibility questions asked -> Information provided simply -> Assistance delivered in minutes -> SNAP application simplified"
+    },
+    {
+      "id": 314,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Customer Agents",
+      "company": "State of Nevada",
+      "businessChallenge": "The State of Nevada is using AI agents to speed up unemployment claim appeals.",
+      "techStack": [
+        "AI Agents",
+        "Government Services",
+        "Claims Processing"
+      ],
+      "implementationBlueprint": "Unemployment appeal filed -> AI agent processes claim -> Review accelerated -> Decision delivered faster -> Citizen experience improved"
+    },
+    {
+      "id": 315,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Customer Agents",
+      "company": "New York State Department of Motor Vehicles",
+      "businessChallenge": "The New York State Department of Motor Vehicles is transforming the driver service experience with AI to enable greater efficiency and accessibility within the DMV, directly benefiting the public it serves.",
+      "techStack": [
+        "AI Services",
+        "Government DMV",
+        "Customer Experience"
+      ],
+      "implementationBlueprint": "Citizen requests DMV service -> AI enhances process -> Efficiency improved -> Accessibility increased -> Public benefit delivered"
+    },
+    {
+      "id": 316,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Customer Agents",
+      "company": "Pepperdine University",
+      "businessChallenge": "Pepperdine University has students and faculty who speak many languages, and with Gemini in Google Meet, they can benefit from real-time translated captioning and notes.",
+      "techStack": [
+        "Gemini",
+        "Google Meet",
+        "Real-time Translation"
+      ],
+      "implementationBlueprint": "Meeting starts -> Gemini provides real-time captions -> Translation to multiple languages -> Notes generated -> Multilingual communication enabled"
+    },
+    {
+      "id": 317,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Customer Agents",
+      "company": "Qatari Ministry of Labour",
+      "businessChallenge": "The Qatari Ministry of Labour has launched \"Ouqoul,\" an AI-powered platform designed to connect expatriate university graduates with job opportunities in the private sector. This platform streamlines the hiring process by integrating AI-driven candidate matching with ministry services for contract authentication and work permit issuance.",
+      "techStack": [
+        "AI Platform",
+        "Candidate Matching",
+        "Government Services"
+      ],
+      "implementationBlueprint": "Graduate registers on Ouqoul -> AI matches with jobs -> Contract authenticated -> Work permit issued -> Employment connected"
+    },
+    {
+      "id": 318,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Customer Agents",
+      "company": "Studyhall AI",
+      "businessChallenge": "Studyhall AI, which graduated from the Google UK Growth Accelerator program, has built a mobile application that uses Gemini models to help coach students on reading, writing, and exam prep.",
+      "techStack": [
+        "Gemini",
+        "Mobile App",
+        "Education Coaching"
+      ],
+      "implementationBlueprint": "Student uses app -> Gemini coaches on skills -> Reading/writing improved -> Exam prep delivered -> Academic performance enhanced"
+    },
+    {
+      "id": 319,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Customer Agents",
+      "company": "Sullivan County, New York",
+      "businessChallenge": "Sullivan County, New York, is utilizing gen AI to enhance citizen interactions. Despite being one of the state's smallest counties, it has become one of the first to deploy Vertex AI to augment a constituent chatbot tool; launched in under three months with minimal staff, the bot empowers residents with increased transparency and direct communication.",
+      "techStack": [
+        "Vertex AI",
+        "Chatbot",
+        "Government Services"
+      ],
+      "implementationBlueprint": "Citizen asks question -> Chatbot powered by Vertex AI -> Information provided -> Transparency enhanced -> Communication improved"
+    },
+    {
+      "id": 320,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Customer Agents",
+      "company": "Tabiya",
+      "businessChallenge": "Tabiya has built a conversational interface, Compass, that helps young people find employment opportunities. The platform asks questions and requests information, drawing out skills and experiences and matching those to appropriate roles.",
+      "techStack": [
+        "Conversational AI",
+        "Employment Matching",
+        "Youth Services"
+      ],
+      "implementationBlueprint": "Young person engages Compass -> Skills and experiences gathered -> AI matches to roles -> Opportunities presented -> Employment found"
+    },
+    {
+      "id": 321,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Customer Agents",
+      "company": "Var Department (France)",
+      "businessChallenge": "The Var department in southern France has created a team of AI experts to build AI solutions across its public service operations to see how it can make the government more responsive, efficient, and citizen-centric.",
+      "techStack": [
+        "AI Solutions",
+        "Government Operations",
+        "Public Service"
+      ],
+      "implementationBlueprint": "AI team created -> Solutions built for public services -> Government responsiveness improved -> Efficiency increased -> Citizen experience enhanced"
+    },
+    {
+      "id": 322,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Employee Agents",
+      "company": "Bayes Impact",
+      "businessChallenge": "Bayes Impact builds AI products to support non-profits, and its flagship product, CaseAI, is a digital case manager that integrates with an NGO's current system to add smart features to draft action plans tailored to a beneficiary's unique history; caseworkers have saved 25 hours of work per week on average.",
+      "techStack": [
+        "CaseAI",
+        "Digital Case Management",
+        "NGO Integration"
+      ],
+      "implementationBlueprint": "NGO uses CaseAI -> Integration with existing system -> Action plans drafted -> Beneficiary history analyzed -> 25 hours saved weekly"
+    },
+    {
+      "id": 323,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Employee Agents",
+      "company": "Can Do Canines",
+      "businessChallenge": "Can Do Canines is a non-profit that provides no-cost service dogs to persons with disabilities. The team uses Gemini in Gmail for help drafting emails, giving them more time to devote to their life-changing mission.",
+      "techStack": [
+        "Gemini",
+        "Gmail",
+        "Email Drafting"
+      ],
+      "implementationBlueprint": "Staff drafts email -> Gemini assists writing -> Time saved -> More focus on mission -> Service dogs provided"
+    },
+    {
+      "id": 324,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Employee Agents",
+      "company": "Chef Ann Foundation",
+      "businessChallenge": "The Chef Ann Foundation summarizes conversations with Gemini in Meet to track important info from the farmers, vendors, and school districts that help the team get healthy foods in schools nationwide.",
+      "techStack": [
+        "Gemini",
+        "Google Meet",
+        "Conversation Summary"
+      ],
+      "implementationBlueprint": "Meeting with stakeholders -> Gemini summarizes conversation -> Important info tracked -> Healthy foods coordinated -> Schools nationwide served"
+    },
+    {
+      "id": 325,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Employee Agents",
+      "company": "Climate Ride",
+      "businessChallenge": "Climate Ride, an environmental and cycling fundraising organization, uses Google Workspace for Nonprofits to collaborate remotely and automate tasks, enabling its five-person team to work more efficiently towards its mission. This increased efficiency translates to more time and resources dedicated to combating climate change.",
+      "techStack": [
+        "Google Workspace for Nonprofits",
+        "Collaboration",
+        "Task Automation"
+      ],
+      "implementationBlueprint": "Team collaborates remotely -> Tasks automated -> Efficiency increased -> More resources for mission -> Climate change combated"
+    },
+    {
+      "id": 326,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Employee Agents",
+      "company": "CodePath",
+      "businessChallenge": "CodePath supports the next generation of engineering leaders from low-income and underrepresented communities. They use Gemini in Workspace to accelerate grant writing and recruiting so they can deepen the impact of their work.",
+      "techStack": [
+        "Gemini",
+        "Google Workspace",
+        "Grant Writing"
+      ],
+      "implementationBlueprint": "Grant writing needed -> Gemini accelerates process -> Recruiting streamlined -> Impact deepened -> Engineering leaders supported"
+    },
+    {
+      "id": 327,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Employee Agents",
+      "company": "Dutch Bamboo Foundation",
+      "businessChallenge": "The Dutch Bamboo Foundation uses Gemini for Google Workspace to streamline everything from fundraising to research, enabling a single person to run the non-profit effectively. This allows the founder to work strategically and maximize limited resources, ultimately advancing its mission to combat climate change.",
+      "techStack": [
+        "Gemini",
+        "Google Workspace",
+        "Nonprofit Operations"
+      ],
+      "implementationBlueprint": "Fundraising and research needed -> Gemini streamlines tasks -> Single person operates effectively -> Resources maximized -> Climate mission advanced"
+    },
+    {
+      "id": 328,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Employee Agents",
+      "company": "Erika's Lighthouse",
+      "businessChallenge": "Erika's Lighthouse relies on Google Workspace with Gemini to create life-saving mental health programs for school communities worldwide. They use Gemini to automate repetitive tasks and accelerate content creation, from summarizing meeting takeaways to populating tables in Sheets to organize data.",
+      "techStack": [
+        "Google Workspace",
+        "Gemini",
+        "Mental Health Programs"
+      ],
+      "implementationBlueprint": "Mental health content needed -> Gemini automates tasks -> Meeting summaries created -> Data organized in Sheets -> School programs delivered"
+    },
+    {
+      "id": 329,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Employee Agents",
+      "company": "Fulton Theatre",
+      "businessChallenge": "The Fulton Theatre cuts grant-writing time in half by using Gemini in Docs to fill in routine information, helping the team focus on growing the theatre and putting on shows that bring communities together.",
+      "techStack": [
+        "Gemini",
+        "Google Docs",
+        "Grant Writing"
+      ],
+      "implementationBlueprint": "Grant application needed -> Gemini fills routine info -> Time cut in half -> Focus on theatre growth -> Community shows produced"
+    },
+    {
+      "id": 330,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Employee Agents",
+      "company": "The Good Earth Farm",
+      "businessChallenge": "The Good Earth Farm, an animal sanctuary and event space, keeps its community updated on their favorite animals with newsletters co-written by Gemini in Docs.",
+      "techStack": [
+        "Gemini",
+        "Google Docs",
+        "Newsletter Creation"
+      ],
+      "implementationBlueprint": "Newsletter needed -> Gemini co-writes content -> Animal updates shared -> Community engaged -> Sanctuary promoted"
+    },
+    {
+      "id": 331,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Employee Agents",
+      "company": "Indigenous Made",
+      "businessChallenge": "Indigenous Made's cofounders improve their coordination of indigenous art markets by using suggestions from Gemini in Gmail to kick-start email responses.",
+      "techStack": [
+        "Gemini",
+        "Gmail",
+        "Email Assistance"
+      ],
+      "implementationBlueprint": "Email response needed -> Gemini provides suggestions -> Response kick-started -> Art markets coordinated -> Indigenous artists supported"
+    },
+    {
+      "id": 332,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Employee Agents",
+      "company": "Mississippi Farm to School Network",
+      "businessChallenge": "The Mississippi Farm to School Network, a nutrition education nonprofit, uses Gemini in Docs to proofread and organize the grant proposals that make its educational mission possible.",
+      "techStack": [
+        "Gemini",
+        "Google Docs",
+        "Grant Proposals"
+      ],
+      "implementationBlueprint": "Grant proposal drafted -> Gemini proofreads content -> Organization improved -> Funding secured -> Nutrition education delivered"
+    },
+    {
+      "id": 333,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Employee Agents",
+      "company": "Opportunity@Work",
+      "businessChallenge": "Opportunity@Work is applying gen AI to scale a suite of software tools and APIs that help employers identify \"STAR\" job candidates — \"skilled through alternative routes\" such as community college, military service, and on-the-job experience — helping fill roles in a tight market and expand opportunities.",
+      "techStack": [
+        "Generative AI",
+        "Recruitment Tools",
+        "Skills Matching"
+      ],
+      "implementationBlueprint": "Employer seeks candidates -> Gen AI identifies STAR candidates -> Alternative skills recognized -> Roles filled -> Opportunities expanded"
+    },
+    {
+      "id": 334,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Employee Agents",
+      "company": "The Red Barn",
+      "businessChallenge": "The Red Barn, a nonprofit that teaches children with disabilities how to work with horses, uses Gemini in Docs to help write grant proposals that allow more children to benefit from equine-assisted therapy.",
+      "techStack": [
+        "Gemini",
+        "Google Docs",
+        "Grant Writing"
+      ],
+      "implementationBlueprint": "Grant proposal needed -> Gemini assists writing -> Funding secured -> More children served -> Equine therapy expanded"
+    },
+    {
+      "id": 335,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Employee Agents",
+      "company": "Studio Be",
+      "businessChallenge": "Nonprofit Studio Be empowers artists in New Orleans. Founder Brandan \"BMike\" Odums uses Gemini in Gmail to summarize and respond to hundreds of weekly emails, so he can focus more time on supporting young artists.",
+      "techStack": [
+        "Gemini",
+        "Gmail",
+        "Email Management"
+      ],
+      "implementationBlueprint": "Hundreds of emails received -> Gemini summarizes content -> Responses generated -> Time saved -> Young artists supported"
+    },
+    {
+      "id": 336,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Employee Agents",
+      "company": "Uniformed Services University",
+      "businessChallenge": "Uniformed Services University trains the U.S. military's medical personnel and prepares them professionally and technically for the future of digital medicine. Using Google Workspace with Gemini, they were able to support new ways of working, with 88% of pilot users reporting being more effective at what they do overall, including the acceleration of HR, academic, and proposal writing processes.",
+      "techStack": [
+        "Google Workspace",
+        "Gemini",
+        "Medical Training"
+      ],
+      "implementationBlueprint": "Medical training needed -> Workspace with Gemini deployed -> HR and academic processes accelerated -> 88% report improved effectiveness -> Digital medicine prepared"
+    },
+    {
+      "id": 337,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Employee Agents",
+      "company": "U.S. Air Force",
+      "businessChallenge": "The U.S. Air Force built a new proof-of-concept portal for searching, browsing, and reading e-published PDFs — all within a 90-day deadline, leveraging the prebuilt tools and speed of Vertex AI Search and Conversation.",
+      "techStack": [
+        "Vertex AI Search",
+        "Vertex AI Conversation",
+        "Document Search"
+      ],
+      "implementationBlueprint": "PDF search portal needed -> Vertex AI tools used -> Built in 90 days -> Search and browse enabled -> E-published documents accessible"
+    },
+    {
+      "id": 338,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Employee Agents",
+      "company": "U.S. Dept. of Veterans Affairs",
+      "businessChallenge": "The U.S. Dept. of Veterans Affairs is using AI at the edge to improve cancer detection for service members and veterans. The Augmented Reality Microscope (ARM) is deployed at remote military treatment facilities around the world. The prototype device is helping pathologists find cancer faster and with better accuracy.",
+      "techStack": [
+        "AI at Edge",
+        "Augmented Reality Microscope",
+        "Cancer Detection"
+      ],
+      "implementationBlueprint": "Tissue sample analyzed -> ARM deployed at facility -> AI assists pathologist -> Cancer detected faster -> Veterans care improved"
+    },
+    {
+      "id": 339,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Employee Agents",
+      "company": "U.S. Patent and Trademark Office",
+      "businessChallenge": "The U.S. Patent and Trademark Office has improved the quality and efficiency of its patent and trademark examination process by implementing AI-driven technologies.",
+      "techStack": [
+        "AI Technologies",
+        "Patent Examination",
+        "Trademark Processing"
+      ],
+      "implementationBlueprint": "Patent/trademark submitted -> AI-driven examination -> Quality improved -> Efficiency increased -> Process enhanced"
+    },
+    {
+      "id": 340,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Employee Agents",
+      "company": "Understood.org",
+      "businessChallenge": "Understood.org is using Gemini for Google Workspace to improve efficiency and communication across departments, streamlining tasks like document summarization and email writing.",
+      "techStack": [
+        "Gemini",
+        "Google Workspace",
+        "Communication"
+      ],
+      "implementationBlueprint": "Department communication needed -> Gemini summarizes documents -> Emails written efficiently -> Cross-department collaboration improved -> Mission advanced"
+    },
+    {
+      "id": 341,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Employee Agents",
+      "company": "Wilmington Ballet",
+      "businessChallenge": "The Wilmington Ballet continues its mission of empowering students through dance with grant proposals drafted by Gemini in Docs, giving the team more time to spend nurturing the next generation of dancers.",
+      "techStack": [
+        "Gemini",
+        "Google Docs",
+        "Grant Proposals"
+      ],
+      "implementationBlueprint": "Grant proposal needed -> Gemini drafts content -> Time saved -> Dance students empowered -> Next generation nurtured"
+    },
+    {
+      "id": 342,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Employee Agents",
+      "company": "YDUQS",
+      "businessChallenge": "YDUQS, a Brazilian education company, uses Vertex AI to automate the screening of cover letters for student admissions, resulting in a 90% success rate and a 4-second average response time. This streamlined enrollment process has enabled YDUQS to save approximately BRL 1.5 million since adoption.",
+      "techStack": [
+        "Vertex AI",
+        "Automated Screening",
+        "Student Admissions"
+      ],
+      "implementationBlueprint": "Cover letters submitted -> Vertex AI screens automatically -> 4-second response time -> 90% success rate -> BRL 1.5M saved"
+    },
+    {
+      "id": 343,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Creative Agents",
+      "company": "Rhythm Foundation",
+      "businessChallenge": "The Rhythm Foundation secures funding for its free concerts with pitch decks made using Gemini in Slides, cutting the time to a first draft from hours to minutes.",
+      "techStack": [
+        "Gemini",
+        "Google Slides",
+        "Pitch Decks"
+      ],
+      "implementationBlueprint": "Pitch deck needed -> Gemini creates in Slides -> Hours reduced to minutes -> Funding secured -> Free concerts delivered"
+    },
+    {
+      "id": 344,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Creative Agents",
+      "company": "World Bank",
+      "businessChallenge": "The World Bank is developing a tool to extract key information from research literature on the causal impact of development interventions, with the ultimate goal to empower decision-makers to allocate $220 billion in annual aid and trillions in annual impact investing more effectively.",
+      "techStack": [
+        "AI Extraction",
+        "Research Analysis",
+        "Development Impact"
+      ],
+      "implementationBlueprint": "Research literature analyzed -> Key information extracted -> Causal impacts identified -> Decision-makers empowered -> $220B aid allocated effectively"
+    },
+    {
+      "id": 345,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Creative Agents",
+      "company": "Wild Hearts Idaho",
+      "businessChallenge": "Wild Hearts Idaho, a leadership program for girls, uses Gemini in Docs to write social media captions that promote its programs and help more girls find themselves in outdoor adventures.",
+      "techStack": [
+        "Gemini",
+        "Google Docs",
+        "Social Media Content"
+      ],
+      "implementationBlueprint": "Social content needed -> Gemini writes captions -> Programs promoted -> More girls reached -> Outdoor adventures enabled"
+    },
+    {
+      "id": 346,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Data Agents",
+      "company": "Air Force Research Laboratory",
+      "businessChallenge": "The Air Force Research Laboratory, which helps power the innovation arm of the United States Air Force, embraced the Google Cloud ecosystem to accelerate scientific discovery, streamline operations, and address national security challenges.",
+      "techStack": [
+        "Google Cloud",
+        "Scientific Discovery",
+        "Operations"
+      ],
+      "implementationBlueprint": "Research data collected -> Google Cloud accelerates discovery -> Operations streamlined -> Security challenges addressed -> Innovation powered"
+    },
+    {
+      "id": 347,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Data Agents",
+      "company": "Asteroid Institute",
+      "businessChallenge": "The Asteroid Institute is using AI to discover hidden asteroids in existing astronomical data. This is a major focus for astronomers researching the evolution of the Solar System, investors and businesses hoping to fly missions to asteroids, and for all who want to prevent future large asteroid impacts on Earth.",
+      "techStack": [
+        "AI Discovery",
+        "Astronomical Data",
+        "Space Research"
+      ],
+      "implementationBlueprint": "Astronomical data analyzed -> AI discovers hidden asteroids -> Solar System research advanced -> Mission planning enabled -> Impact prevention improved"
+    },
+    {
+      "id": 348,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Data Agents",
+      "company": "Belo Horizonte Municipal Finance Office",
+      "businessChallenge": "The Belo Horizonte Municipal Finance Office used AI to analyze service descriptions in invoices and assess the correctness of classifications made by the taxpayer, impacting the tax rate. Greater accuracy and efficiency has led to improved tax collections.",
+      "techStack": [
+        "AI Analysis",
+        "Invoice Processing",
+        "Tax Classification"
+      ],
+      "implementationBlueprint": "Invoices submitted -> AI analyzes descriptions -> Classifications assessed -> Accuracy improved -> Tax collections enhanced"
+    },
+    {
+      "id": 349,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Data Agents",
+      "company": "Brazil Ministry of Education",
+      "businessChallenge": "Brazil's Ministry of Education was facing challenges in improving the user experience of one of its mission-critical systems, SIMEC, where the ministry distributes public education policies to more than one million users. In mid-2022, SIMEC was migrated to Google Cloud ending the system's unreliability, automating processes, and reducing the number of support calls from users.",
+      "techStack": [
+        "Google Cloud",
+        "SIMEC Platform",
+        "Education Policy"
+      ],
+      "implementationBlueprint": "SIMEC migrated to Google Cloud -> Reliability restored -> Processes automated -> Support calls reduced -> 1M+ users served"
+    },
+    {
+      "id": 350,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Data Agents",
+      "company": "Broward County, Florida",
+      "businessChallenge": "Broward County, Florida, is using geospatial capabilities and AI to improve infrastructure planning and monitoring, generate new insights, and create regional resilience for communities facing climate challenges today and tomorrow.",
+      "techStack": [
+        "Geospatial AI",
+        "Infrastructure Planning",
+        "Climate Resilience"
+      ],
+      "implementationBlueprint": "Geospatial data collected -> AI analyzes infrastructure -> Planning improved -> Climate insights generated -> Regional resilience created"
+    },
+    {
+      "id": 351,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Data Agents",
+      "company": "CNI Brazil",
+      "businessChallenge": "CNI, Brazil's National Confederation of Industry, is using big data, machine learning, natural language processing, and AI technologies to better understand industrial demands, as well as individual skills and the calibration of the training portfolio of the confederation's educational institutions.",
+      "techStack": [
+        "Big Data",
+        "Machine Learning",
+        "NLP",
+        "AI"
+      ],
+      "implementationBlueprint": "Industrial data collected -> ML analyzes demands -> Skills assessed -> Training portfolio calibrated -> Education institutions improved"
+    },
+    {
+      "id": 352,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Data Agents",
+      "company": "Colombia Ministry of ICT",
+      "businessChallenge": "Colombia's Ministry of Information and Communications Technologies uses AI and data analysis to improve the oversight, inspection, and quality control of telecommunications services. They have successfully optimized processes, increased productivity, and created a more transparent and efficient ecosystem.",
+      "techStack": [
+        "AI",
+        "Data Analysis",
+        "Telecommunications Oversight"
+      ],
+      "implementationBlueprint": "Telecom data analyzed -> AI improves oversight -> Quality controlled -> Productivity increased -> Transparent ecosystem created"
+    },
+    {
+      "id": 353,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Data Agents",
+      "company": "Full Fact",
+      "businessChallenge": "Full Fact, a UK-based nonprofit working in 18 countries to combat misinformation, is now using gen AI to actively monitor stories so its 30 fact-checking partner organizations can focus on addressing specific claims and harmful information.",
+      "techStack": [
+        "Generative AI",
+        "Story Monitoring",
+        "Fact-Checking"
+      ],
+      "implementationBlueprint": "Stories monitored by gen AI -> Misinformation flagged -> Partner organizations notified -> Claims addressed -> Harmful info combated"
+    },
+    {
+      "id": 354,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Data Agents",
+      "company": "Fullstory",
+      "businessChallenge": "Fullstory, a digital behavioral data platform, is building the ability to analyze and summarize user behavior on a site to create more informed and enriching chatbot experiences; responses are more relevant and accurate, ultimately improving virtual agent performance and customer experience.",
+      "techStack": [
+        "Behavioral Analytics",
+        "AI Summarization",
+        "Chatbot Enhancement"
+      ],
+      "implementationBlueprint": "User behavior tracked -> AI analyzes patterns -> Behavior summarized -> Chatbot responses improved -> Customer experience enhanced"
+    },
+    {
+      "id": 355,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Data Agents",
+      "company": "Israel Antiquities Authority",
+      "businessChallenge": "The Israel Antiquities Authority worked with CommIT to modernize its data systems with Google Cloud using NetApp and VMware to migrate and back up 1 petabyte of archaeological data. The Israel Antiquities Authority also trained modern research models, powered by Gemini, to help researchers quickly find and access what they are looking for.",
+      "techStack": [
+        "Google Cloud",
+        "Gemini",
+        "Archaeological Data",
+        "NetApp",
+        "VMware"
+      ],
+      "implementationBlueprint": "1PB data migrated -> Systems modernized -> Gemini models trained -> Research access improved -> Archaeology advanced"
+    },
+    {
+      "id": 356,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Data Agents",
+      "company": "Materiom",
+      "businessChallenge": "Materiom, a startup researching zero-waste, bio-based alternatives to fossil-fuel-made products like plastics, is creating a gen AI tool that enables entrepreneurs to develop novel compostable materials with broad applications; AI enables faster research and information gathering to speed up the development process.",
+      "techStack": [
+        "Generative AI",
+        "Materials Research",
+        "Bio-based Products"
+      ],
+      "implementationBlueprint": "Research data collected -> Gen AI analyzes materials -> Novel formulations discovered -> Development accelerated -> Compostable products created"
+    },
+    {
+      "id": 357,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Data Agents",
+      "company": "NOAA",
+      "businessChallenge": "NOAA and USAID are among the U.S. government agencies using Google Cloud AI to unlock critical data insights to streamline operations and improve mission outcomes — all with an emphasis on responsible AI.",
+      "techStack": [
+        "Google Cloud AI",
+        "Data Insights",
+        "Responsible AI"
+      ],
+      "implementationBlueprint": "Government data collected -> Google Cloud AI analyzes -> Critical insights unlocked -> Operations streamlined -> Mission outcomes improved"
+    },
+    {
+      "id": 358,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Data Agents",
+      "company": "OroraTech",
+      "businessChallenge": "OroraTech, a space-based wildfire detection company, leverages Google Cloud's global infrastructure and Vertex AI to enhance the speed and accuracy of its Wildfire Solution. This solution helps customers worldwide monitor forests, detect wildfires early, and protect over 1.6 million km² of forest.",
+      "techStack": [
+        "Google Cloud",
+        "Vertex AI",
+        "Satellite Detection"
+      ],
+      "implementationBlueprint": "Satellite data received -> Vertex AI processes -> Wildfires detected early -> Alerts sent -> 1.6M km² forest protected"
+    },
+    {
+      "id": 359,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Data Agents",
+      "company": "Prodam",
+      "businessChallenge": "Prodam is the state-run company in São Paulo responsible for providing IT and data services to other agencies. It is investing in a project to standardize processes with AI, making for faster and more accurate deliveries and ensuring greater efficiency in the public service of São Paulo.",
+      "techStack": [
+        "AI Standardization",
+        "Government IT",
+        "Process Automation"
+      ],
+      "implementationBlueprint": "Processes analyzed -> AI standardization applied -> Deliveries accelerated -> Accuracy improved -> Public service efficiency increased"
+    },
+    {
+      "id": 360,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Data Agents",
+      "company": "Rio De Janeiro City Data Office",
+      "businessChallenge": "The Rio De Janeiro City Data Office, founded by the mayor, proposed data integration and the development of projects using AI, like monitoring suspicious vandalism using computer vision in city tunnels.",
+      "techStack": [
+        "Computer Vision",
+        "Data Integration",
+        "City Monitoring"
+      ],
+      "implementationBlueprint": "City tunnel cameras feed data -> Computer vision analyzes -> Vandalism detected -> Alerts generated -> City infrastructure protected"
+    },
+    {
+      "id": 361,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Data Agents",
+      "company": "Serpro",
+      "businessChallenge": "Serpro, a federalized company that provides IT solutions to the Brazilian government, adopted Google Distributed Cloud to meet strict national regulations and the highest security standards for its government cloud. The technology offers the option of physical isolation to ensure local residency of information with access restrictions.",
+      "techStack": [
+        "Google Distributed Cloud",
+        "Government Security",
+        "Data Sovereignty"
+      ],
+      "implementationBlueprint": "Government data stored -> Distributed Cloud deployed -> Physical isolation enabled -> Regulations met -> Data sovereignty ensured"
+    },
+    {
+      "id": 362,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Security Agents",
+      "company": "Minas Gerais State Government",
+      "businessChallenge": "The Minas Gerais State Government is using Vertex AI in the State Secretariat for the Environment and Sustainable Development (Semad) to implement an AI solution that will both speed up and make the processing of environmental infraction notices in the state more efficient.",
+      "techStack": [
+        "Vertex AI",
+        "Environmental Compliance",
+        "Infraction Processing"
+      ],
+      "implementationBlueprint": "Environmental infraction reported -> Vertex AI processes notice -> Processing accelerated -> Efficiency improved -> Compliance enforced"
+    },
+    {
+      "id": 363,
+      "industry": "Public Sector & Nonprofits",
+      "agentType": "Security Agents",
+      "company": "Government of Singapore",
+      "businessChallenge": "The Government of Singapore uses Google Cloud Web Risk, which employs AI to proactively flag unsafe websites and protect its residents online, disrupting thousands of harmful sites so far.",
+      "techStack": [
+        "Google Cloud Web Risk",
+        "AI Security",
+        "Online Protection"
+      ],
+      "implementationBlueprint": "Websites analyzed -> AI flags unsafe sites -> Harmful sites disrupted -> Residents protected -> Online safety ensured"
+    },
+    {
+      "id": 364,
+      "industry": "Retail",
+      "agentType": "Customer Agents",
+      "company": "Allegro",
+      "businessChallenge": "Allegro, the largest ecommerce player of European origin, enables millions of real-time, personalized conversations with AI-powered omnichannel orchestration with Google Cloud and GrowthLoop.",
+      "techStack": [
+        "Google Cloud",
+        "GrowthLoop",
+        "Omnichannel AI"
+      ],
+      "implementationBlueprint": "Customer engages -> AI orchestrates conversation -> Personalization applied real-time -> Omnichannel experience delivered -> Millions served"
+    },
+    {
+      "id": 365,
+      "industry": "Retail",
+      "agentType": "Customer Agents",
+      "company": "Best Buy",
+      "businessChallenge": "Best Buy is using Gemini to launch a generative AI-powered virtual assistant this summer that can troubleshoot product issues, reschedule order deliveries, manage Geek Squad subscriptions, and more; in-store and digital customer-service associates are also gaining gen AI tools to better serve customers anywhere they need help.",
+      "techStack": [
+        "Gemini",
+        "Virtual Assistant",
+        "Customer Service AI"
+      ],
+      "implementationBlueprint": "Customer asks question -> Gemini-powered assistant responds -> Issues troubleshot -> Orders managed -> Service enhanced anywhere"
+    },
+    {
+      "id": 366,
+      "industry": "Retail",
+      "agentType": "Customer Agents",
+      "company": "Big Sur AI",
+      "businessChallenge": "Big Sur AI now offers its AI-powered personalization platform for retail and e-commerce customers on Google Cloud Marketplace.",
+      "techStack": [
+        "Google Cloud Marketplace",
+        "AI Personalization",
+        "E-commerce"
+      ],
+      "implementationBlueprint": "Platform deployed from Marketplace -> AI personalization enabled -> Customer experiences tailored -> Retail outcomes improved -> E-commerce enhanced"
+    },
+    {
+      "id": 367,
+      "industry": "Retail",
+      "agentType": "Customer Agents",
+      "company": "BrainLogic",
+      "businessChallenge": "BrainLogic uses Anthropic's Claude models on Vertex AI to power Zapia, a personal AI assistant that caters to the Latin American market's preference for conversational commerce. Zapia supports millions of users with product discovery, local business searches, and purchase assistance, resulting in over 90% positive user feedback.",
+      "techStack": [
+        "Claude on Vertex AI",
+        "Conversational Commerce",
+        "Zapia"
+      ],
+      "implementationBlueprint": "User engages Zapia -> Claude processes query -> Products discovered -> Purchase assisted -> 90% positive feedback achieved"
+    },
+    {
+      "id": 368,
+      "industry": "Retail",
+      "agentType": "Customer Agents",
+      "company": "Cainz",
+      "businessChallenge": "Cainz, a Japanese home improvement chain, is creating an autonomous, next-generation store where advanced AI technologies, including generative AI, merge the best of online and offline shopping to deliver a faster, seamless consumer experience.",
+      "techStack": [
+        "Generative AI",
+        "Autonomous Retail",
+        "Omnichannel"
+      ],
+      "implementationBlueprint": "Customer enters store -> AI technologies engage -> Online/offline merged -> Seamless experience delivered -> Next-gen retail achieved"
+    },
+    {
+      "id": 369,
+      "industry": "Retail",
+      "agentType": "Customer Agents",
+      "company": "Carrefour Taiwan",
+      "businessChallenge": "Carrefour Taiwan's AI Sommelier, a conversational AI service integrated into its app, helps customers select wines based on their preferences. Powered by Gemini models, the AI leverages a vast wine database to provide personalized recommendations, seamlessly integrating online and offline shopping.",
+      "techStack": [
+        "Gemini",
+        "Conversational AI",
+        "Wine Recommendations"
+      ],
+      "implementationBlueprint": "Customer opens app -> AI Sommelier engages -> Preferences gathered -> Wine database queried -> Personalized recommendations provided"
+    },
+    {
+      "id": 370,
+      "industry": "Retail",
+      "agentType": "Customer Agents",
+      "company": "Dunelm",
+      "businessChallenge": "Dunelm has partnered with Google Cloud to enhance its online shopping experience with a new gen AI-driven product discovery solution. This has shown significant improvements in a number of key areas, including reduced search friction, helping customers find the products they are looking for.",
+      "techStack": [
+        "Google Cloud",
+        "Gen AI Product Discovery",
+        "E-commerce"
+      ],
+      "implementationBlueprint": "Customer searches -> Gen AI processes query -> Friction reduced -> Products discovered -> Shopping experience enhanced"
+    },
+    {
+      "id": 371,
+      "industry": "Retail",
+      "agentType": "Customer Agents",
+      "company": "Eezee",
+      "businessChallenge": "Eezee found Gemini models to be the most reliable option for building its Southeast Asian B2B platform that connects small businesses with suppliers of industrial and construction materials.",
+      "techStack": [
+        "Gemini",
+        "B2B Platform",
+        "Industrial Materials"
+      ],
+      "implementationBlueprint": "Business searches for materials -> Gemini powers platform -> Suppliers connected -> Materials sourced -> B2B commerce enabled"
+    },
+    {
+      "id": 372,
+      "industry": "Retail",
+      "agentType": "Customer Agents",
+      "company": "Etsy",
+      "businessChallenge": "Etsy uses Vertex AI training to optimize its search recommendations and ads models, delivering better listing suggestions to buyers and helping sellers.",
+      "techStack": [
+        "Vertex AI",
+        "Search Recommendations",
+        "Ads Models"
+      ],
+      "implementationBlueprint": "Buyer searches -> Vertex AI optimizes results -> Recommendations improved -> Sellers helped -> Marketplace enhanced"
+    },
+    {
+      "id": 373,
+      "industry": "Retail",
+      "agentType": "Customer Agents",
+      "company": "GroupBy",
+      "businessChallenge": "GroupBy, an ecommerce service provider, developed an AI-first Search and Discovery Platform powered by Vertex AI Search for Retail. This solution is meticulously designed to optimize revenue, strengthen brand loyalty, and drive sales growth for B2C and B2B retailers.",
+      "techStack": [
+        "Vertex AI Search for Retail",
+        "Search Platform",
+        "E-commerce"
+      ],
+      "implementationBlueprint": "Retailer deploys platform -> Vertex AI powers search -> Discovery optimized -> Revenue increased -> Brand loyalty strengthened"
+    },
+    {
+      "id": 374,
+      "industry": "Retail",
+      "agentType": "Customer Agents",
+      "company": "The Home Depot",
+      "businessChallenge": "The Home Depot built Magic Apron, an AI agent that offers expert guidance 24/7, providing detailed how-to instructions, product recommendations, and review summaries to make home improvement easier.",
+      "techStack": [
+        "AI Agent",
+        "Magic Apron",
+        "Product Recommendations"
+      ],
+      "implementationBlueprint": "Customer asks question -> Magic Apron responds 24/7 -> Instructions provided -> Products recommended -> Home improvement simplified"
+    },
+    {
+      "id": 375,
+      "industry": "Retail",
+      "agentType": "Customer Agents",
+      "company": "Lowe's",
+      "businessChallenge": "Lowe's is revolutionizing product discovery with Vertex AI Search to generate dynamic product recommendations and address customers' complex search queries.",
+      "techStack": [
+        "Vertex AI Search",
+        "Product Discovery",
+        "Dynamic Recommendations"
+      ],
+      "implementationBlueprint": "Customer searches -> Vertex AI generates recommendations -> Complex queries addressed -> Products discovered -> Shopping revolutionized"
+    },
+    {
+      "id": 376,
+      "industry": "Retail",
+      "agentType": "Customer Agents",
+      "company": "Magalu",
+      "businessChallenge": "Magalu, one of Brazil's largest retailers, has put customer service at the center of its AI strategy, including using Vertex AI to create \"Lu's Brain\" to power an interactive conversational agent for Lu, Magalu's popular brand persona (the 3D bot has more than 14 million followers between TikTok and Instagram).",
+      "techStack": [
+        "Vertex AI",
+        "Lu's Brain",
+        "Conversational Agent"
+      ],
+      "implementationBlueprint": "Customer engages Lu -> Vertex AI powers brain -> Interactive conversation -> Customer served -> 14M followers engaged"
+    },
+    {
+      "id": 377,
+      "industry": "Retail",
+      "agentType": "Customer Agents",
+      "company": "Mercado Libre",
+      "businessChallenge": "Mercado Libre has incorporated semantic search into its digital shopping platforms, using AI embeddings from the Vertex AI Agent Builder, which greatly improved product recommendations and discoverability for more than 200 million consumers across Latin America.",
+      "techStack": [
+        "Vertex AI Agent Builder",
+        "Semantic Search",
+        "AI Embeddings"
+      ],
+      "implementationBlueprint": "Consumer searches -> Semantic search processes -> AI embeddings match -> Products recommended -> 200M consumers served"
+    },
+    {
+      "id": 378,
+      "industry": "Retail",
+      "agentType": "Customer Agents",
+      "company": "Mercari",
+      "businessChallenge": "Mercari dramatically improves the user experience for both buyers and sellers on its ecommerce marketplace with Vertex AI and Weights & Biases.",
+      "techStack": [
+        "Vertex AI",
+        "Weights & Biases",
+        "E-commerce"
+      ],
+      "implementationBlueprint": "Users engage marketplace -> Vertex AI enhances experience -> Buyers find products -> Sellers connect -> UX dramatically improved"
+    },
+    {
+      "id": 379,
+      "industry": "Retail",
+      "agentType": "Customer Agents",
+      "company": "Target",
+      "businessChallenge": "Target uses Google Cloud to power AI solutions on the Target app and Target.com, including personalized Target Circle offers and Starbucks at Drive Up, its curbside pickup solution.",
+      "techStack": [
+        "Google Cloud",
+        "Target Circle",
+        "Personalization"
+      ],
+      "implementationBlueprint": "Customer uses app -> AI personalizes offers -> Target Circle enhanced -> Drive Up enabled -> Curbside pickup delivered"
+    },
+    {
+      "id": 380,
+      "industry": "Retail",
+      "agentType": "Customer Agents",
+      "company": "Tokopedia",
+      "businessChallenge": "Tokopedia, an Indonesian ecommerce leader, is using Vertex AI to improve data quality, increasing unique products being sold by 5%.",
+      "techStack": [
+        "Vertex AI",
+        "Data Quality",
+        "E-commerce"
+      ],
+      "implementationBlueprint": "Product data analyzed -> Vertex AI improves quality -> Unique products identified -> Catalog enhanced -> Sales increased 5%"
+    },
+    {
+      "id": 381,
+      "industry": "Retail",
+      "agentType": "Customer Agents",
+      "company": "Vody",
+      "businessChallenge": "Vody, part of the Google for Startups Cloud AI Accelerator, builds fine-tuned multimodal AI models for retail, helping to improve search experiences, personalize recommendations, and enhance customer engagement.",
+      "techStack": [
+        "Multimodal AI",
+        "Retail Models",
+        "Search Enhancement"
+      ],
+      "implementationBlueprint": "Multimodal models fine-tuned -> Search improved -> Recommendations personalized -> Customer engagement enhanced -> Retail experiences optimized"
+    },
+    {
+      "id": 382,
+      "industry": "Retail",
+      "agentType": "Customer Agents",
+      "company": "Wendy's",
+      "businessChallenge": "Wendy's FreshAI pairs Gemini's conversational AI capability with audio and visual elements to create a deeply personalized and tailored experience that is consistent and enjoyable for Wendy's customers by freeing workers to focus on excellent service and meal preparation — marking the next evolution in the quick-serve restaurants.",
+      "techStack": [
+        "Gemini",
+        "FreshAI",
+        "Conversational AI"
+      ],
+      "implementationBlueprint": "Customer orders -> FreshAI processes with Gemini -> Personalized experience created -> Workers freed for service -> QSR evolved"
+    },
+    {
+      "id": 383,
+      "industry": "Retail",
+      "agentType": "Employee Agents",
+      "company": "3 Farm Daughters",
+      "businessChallenge": "3 Farm Daughters, a family-owned pasta company, writes social media posts with help from Gemini in Docs, making it easier for the three sisters-turned-cofounders to balance family life with running a business.",
+      "techStack": [
+        "Gemini",
+        "Google Docs",
+        "Social Media"
+      ],
+      "implementationBlueprint": "Social content needed -> Gemini assists in Docs -> Posts created -> Family life balanced -> Business managed efficiently"
+    },
+    {
+      "id": 384,
+      "industry": "Retail",
+      "agentType": "Employee Agents",
+      "company": "Arpalus",
+      "businessChallenge": "Arpalus developed an app that can instantly analyze the physical shelf and notify employees about actions to take to improve it. Powered by patented computer vision and AR technology, the app now integrates Google Cloud's gen AI to expand its vision capabilities, transforming images into 3D models for even more powerful and accurate product recognition.",
+      "techStack": [
+        "Google Cloud Gen AI",
+        "Computer Vision",
+        "AR Technology"
+      ],
+      "implementationBlueprint": "Shelf photographed -> AI analyzes instantly -> Actions recommended -> 3D models created -> Product recognition improved"
+    },
+    {
+      "id": 385,
+      "industry": "Retail",
+      "agentType": "Employee Agents",
+      "company": "Atlas",
+      "businessChallenge": "Atlas, an operating system for restaurants, is using AI to improve operational efficiency, drive sales, and surface customer insights for food and beverage brands across Singapore.",
+      "techStack": [
+        "Restaurant AI",
+        "Operations Platform",
+        "Customer Insights"
+      ],
+      "implementationBlueprint": "Restaurant data collected -> AI improves operations -> Sales driven -> Customer insights surfaced -> F&B brands served"
+    },
+    {
+      "id": 386,
+      "industry": "Retail",
+      "agentType": "Employee Agents",
+      "company": "Best Buy",
+      "businessChallenge": "Best Buy can generate conversation summaries in real time using Contact Center AI, allowing live agents to give their full attention to understanding and supporting customers; the result is a 30-to-90-second reduction in average call time and after-call work. Both customers and agents have cited improved satisfaction.",
+      "techStack": [
+        "Contact Center AI",
+        "Real-time Summaries",
+        "Customer Service"
+      ],
+      "implementationBlueprint": "Customer calls -> AI summarizes in real-time -> Agent focuses on customer -> Call time reduced 30-90 seconds -> Satisfaction improved"
+    },
+    {
+      "id": 387,
+      "industry": "Retail",
+      "agentType": "Employee Agents",
+      "company": "BLK & Bold",
+      "businessChallenge": "BLK & Bold, a premium coffee company simplifies and speeds the tedious task of budgeting by asking Gemini in Sheets for help creating tables and importing data.",
+      "techStack": [
+        "Gemini",
+        "Google Sheets",
+        "Budgeting"
+      ],
+      "implementationBlueprint": "Budgeting needed -> Gemini creates tables -> Data imported -> Task simplified -> Budget completed faster"
+    },
+    {
+      "id": 388,
+      "industry": "Retail",
+      "agentType": "Employee Agents",
+      "company": "Camanchaca",
+      "businessChallenge": "Camanchaca, a Chilean seafood company, took only six weeks to develop Elon, a virtual assistant that aims to provide more efficient customer service through digital channels, enhancing Camanchaca's customer interactions.",
+      "techStack": [
+        "Virtual Assistant",
+        "Digital Channels",
+        "Customer Service"
+      ],
+      "implementationBlueprint": "Virtual assistant developed in 6 weeks -> Digital channels enabled -> Customer service improved -> Interactions enhanced -> Efficiency increased"
+    },
+    {
+      "id": 389,
+      "industry": "Retail",
+      "agentType": "Employee Agents",
+      "company": "Custard Stand Chili",
+      "businessChallenge": "Custard Stand Chili co-founder Angie Cowger refines her emails with Gemini in Gmail to communicate effectively with retailers and share her family's hot dog chili nationwide.",
+      "techStack": [
+        "Gemini",
+        "Gmail",
+        "Email Refinement"
+      ],
+      "implementationBlueprint": "Email drafted -> Gemini refines -> Communication improved -> Retailers engaged -> Family recipe shared nationwide"
+    },
+    {
+      "id": 390,
+      "industry": "Retail",
+      "agentType": "Employee Agents",
+      "company": "Etsy",
+      "businessChallenge": "Etsy's customer support team uses Gemini in Sheets to reduce the time spent analyzing customer feedback from hours to minutes, enabling them to quickly identify trends and improve customer interactions.",
+      "techStack": [
+        "Gemini",
+        "Google Sheets",
+        "Feedback Analysis"
+      ],
+      "implementationBlueprint": "Customer feedback collected -> Gemini analyzes in Sheets -> Hours reduced to minutes -> Trends identified -> Interactions improved"
+    },
+    {
+      "id": 391,
+      "industry": "Retail",
+      "agentType": "Employee Agents",
+      "company": "Grupo Nutresa",
+      "businessChallenge": "Grupo Nutresa, a leader in processed foods in Colombia and Latin America, is using Gemini for Google Workspace to streamline its processes, optimize decision-making, and increase productivity, thus driving innovation.",
+      "techStack": [
+        "Gemini",
+        "Google Workspace",
+        "Process Optimization"
+      ],
+      "implementationBlueprint": "Processes analyzed -> Gemini streamlines -> Decision-making optimized -> Productivity increased -> Innovation driven"
+    },
+    {
+      "id": 392,
+      "industry": "Retail",
+      "agentType": "Employee Agents",
+      "company": "The Home Depot",
+      "businessChallenge": "The Home Depot has built an application called Sidekick, which helps store associates manage inventory and keep shelves stocked; notably, vision models help associates prioritize which actions to take.",
+      "techStack": [
+        "Sidekick App",
+        "Vision Models",
+        "Inventory Management"
+      ],
+      "implementationBlueprint": "Associate uses Sidekick -> Vision models analyze shelves -> Actions prioritized -> Inventory managed -> Shelves stocked"
+    },
+    {
+      "id": 393,
+      "industry": "Retail",
+      "agentType": "Employee Agents",
+      "company": "Just Salad",
+      "businessChallenge": "Just Salad uses Gemini for Google Workspace to streamline communication and enhance efficiency by summarizing emails and meetings, allowing employees to focus on product development, customer service, and other tasks that contribute to the company's growth.",
+      "techStack": [
+        "Gemini",
+        "Google Workspace",
+        "Communication"
+      ],
+      "implementationBlueprint": "Emails and meetings occur -> Gemini summarizes -> Communication streamlined -> Focus on core tasks -> Company growth enabled"
+    },
+    {
+      "id": 394,
+      "industry": "Retail",
+      "agentType": "Employee Agents",
+      "company": "McDonald's",
+      "businessChallenge": "McDonald's will leverage data, AI, and edge technologies across its thousands of restaurants to implement innovation faster and to enhance employee and customer experiences.",
+      "techStack": [
+        "Data Analytics",
+        "AI",
+        "Edge Technologies"
+      ],
+      "implementationBlueprint": "Restaurant data collected -> AI and edge process -> Innovation implemented faster -> Experiences enhanced -> Thousands of restaurants served"
+    },
+    {
+      "id": 395,
+      "industry": "Retail",
+      "agentType": "Employee Agents",
+      "company": "Miinto",
+      "businessChallenge": "Miinto uses Vertex AI Vision to identify and merge duplicate product listings, improving the customer experience and reducing operational costs. This AI-powered solution has resulted in a 40% increase in efficiency, a 20% improvement in conversion rates, and significant cost savings.",
+      "techStack": [
+        "Vertex AI Vision",
+        "Product Deduplication",
+        "E-commerce"
+      ],
+      "implementationBlueprint": "Listings analyzed -> AI identifies duplicates -> Listings merged -> 40% efficiency gain -> 20% conversion improvement"
+    },
+    {
+      "id": 396,
+      "industry": "Retail",
+      "agentType": "Employee Agents",
+      "company": "Momentum Climbing Gym",
+      "businessChallenge": "Momentum Climbing Gym uses Gemini in Meet to summarize conversations with their team members nationwide, keeping everyone on the same page as they reach for new heights.",
+      "techStack": [
+        "Gemini",
+        "Google Meet",
+        "Meeting Summaries"
+      ],
+      "implementationBlueprint": "Team meeting held -> Gemini summarizes conversation -> Nationwide team aligned -> Communication improved -> Heights reached"
+    },
+    {
+      "id": 397,
+      "industry": "Retail",
+      "agentType": "Employee Agents",
+      "company": "Mood Fabrics",
+      "businessChallenge": "Mood Fabrics compares vendor proposals with Gemini in Gmail, making sure to never miss a detail while managing relations with 600+ vendors worldwide.",
+      "techStack": [
+        "Gemini",
+        "Gmail",
+        "Vendor Management"
+      ],
+      "implementationBlueprint": "Vendor proposals received -> Gemini analyzes in Gmail -> Details compared -> 600+ vendors managed -> Relations maintained"
+    },
+    {
+      "id": 398,
+      "industry": "Retail",
+      "agentType": "Employee Agents",
+      "company": "Morgan Ranch",
+      "businessChallenge": "Cattlemen at Morgan Ranch, a worldwide Wagyu beef supplier, carve lengthy email writing down to just minutes with Gemini in Gmail, getting them back in the saddle faster.",
+      "techStack": [
+        "Gemini",
+        "Gmail",
+        "Email Efficiency"
+      ],
+      "implementationBlueprint": "Email needed -> Gemini assists writing -> Lengthy emails shortened -> Time saved -> Back in saddle faster"
+    },
+    {
+      "id": 399,
+      "industry": "Retail",
+      "agentType": "Employee Agents",
+      "company": "Natura",
+      "businessChallenge": "Natura, a Brazilian cosmetics company, migrated 20,000 employees in more than 10 countries to Google Workspace, and was one of the first to pilot the Gemini side panel. The beauty leader also eliminated more than 17 hours of manual work per week with AppSheet, giving the finance team more time to focus on high-value analysis and planning.",
+      "techStack": [
+        "Google Workspace",
+        "Gemini",
+        "AppSheet"
+      ],
+      "implementationBlueprint": "20K employees migrated -> Gemini side panel piloted -> 17 hours saved weekly -> Finance team freed -> High-value work enabled"
+    },
+    {
+      "id": 400,
+      "industry": "Retail",
+      "agentType": "Employee Agents",
+      "company": "Nuts.com",
+      "businessChallenge": "Nuts.com uses Gemini in Meet's live translation to communicate with suppliers worldwide and source the high-quality nuts they've provided since 1929.",
+      "techStack": [
+        "Gemini",
+        "Google Meet",
+        "Live Translation"
+      ],
+      "implementationBlueprint": "Meeting with global supplier -> Gemini translates live -> Communication enabled -> Nuts sourced -> Quality maintained since 1929"
+    },
+    {
+      "id": 401,
+      "industry": "Retail",
+      "agentType": "Employee Agents",
+      "company": "oogiebear",
+      "businessChallenge": "oogiebear, a business specializing in baby breathing care products, uses Gemini in Gmail to quickly respond to customers and vendors, helping cofounder Dr. Nina Farzin juggle her dual roles of CEO and mom of three.",
+      "techStack": [
+        "Gemini",
+        "Gmail",
+        "Customer Response"
+      ],
+      "implementationBlueprint": "Customer/vendor emails received -> Gemini assists response -> Quick replies sent -> Dual roles balanced -> Business managed efficiently"
+    },
+    {
+      "id": 402,
+      "industry": "Retail",
+      "agentType": "Employee Agents",
+      "company": "Schwarz Group",
+      "businessChallenge": "Schwarz Group, Europe's largest retailer (including Lidl and Kaufland), is partnering with Google to enhance workplace productivity and security. They will use Google Workspace with client-side encryption through Schwarz Digits' Cloud STACKIT, ensuring data sovereignty and maximizing security for their 575,000 employees.",
+      "techStack": [
+        "Google Workspace",
+        "Client-side Encryption",
+        "STACKIT"
+      ],
+      "implementationBlueprint": "Workspace deployed -> Client-side encryption enabled -> Data sovereignty ensured -> 575K employees secured -> Productivity enhanced"
+    },
+    {
+      "id": 403,
+      "industry": "Retail",
+      "agentType": "Employee Agents",
+      "company": "Sports Basement",
+      "businessChallenge": "Sports Basement's customer service team is using Gemini in Google Workspace to reduce the time spent writing emails by 30-35%. This means faster response times, happier employees, and higher quality customer interactions.",
+      "techStack": [
+        "Gemini",
+        "Google Workspace",
+        "Customer Service"
+      ],
+      "implementationBlueprint": "Customer email needed -> Gemini assists writing -> Time reduced 30-35% -> Faster responses -> Higher quality interactions"
+    },
+    {
+      "id": 404,
+      "industry": "Retail",
+      "agentType": "Employee Agents",
+      "company": "Trace One",
+      "businessChallenge": "Trace One, a product lifecycle management provider for retail and CPG companies, began using Vertex AI to automatically extract information from complex documents in order to create up-to-date product summaries and data sheets, covering different industry and regulatory standards.",
+      "techStack": [
+        "Vertex AI",
+        "Document Extraction",
+        "Product Lifecycle"
+      ],
+      "implementationBlueprint": "Complex documents uploaded -> Vertex AI extracts info -> Summaries created -> Data sheets updated -> Standards covered"
+    },
+    {
+      "id": 405,
+      "industry": "Retail",
+      "agentType": "Employee Agents",
+      "company": "Victoria's Secret",
+      "businessChallenge": "Victoria's Secret is testing AI-powered agents to help its in-store associates find information about product availability, inventory, and fitting and sizing tips, so they can better tailor recommendations to customers.",
+      "techStack": [
+        "AI Agents",
+        "Store Associates",
+        "Inventory Information"
+      ],
+      "implementationBlueprint": "Associate queries AI -> Product availability found -> Fitting tips provided -> Recommendations tailored -> Customer served better"
+    },
+    {
+      "id": 406,
+      "industry": "Retail",
+      "agentType": "Employee Agents",
+      "company": "Woolworths",
+      "businessChallenge": "Woolworths, the leading retailer in Australia, boosts employees' confidence in communications with \"Help me write\" across Google Workspace products for more than 10,000 administrative employees. Woolworths is also using Gemini to create next-generation promotions, as well as for quickly assisting customer service reps in summarizing all previous customer interactions in real time.",
+      "techStack": [
+        "Google Workspace",
+        "Gemini",
+        "Help me write"
+      ],
+      "implementationBlueprint": "Employee needs to write -> Help me write assists -> 10K employees boosted -> Promotions created -> Customer interactions summarized"
+    },
+    {
+      "id": 407,
+      "industry": "Retail",
+      "agentType": "Creative Agents",
+      "company": "Adore Me",
+      "businessChallenge": "Adore Me marketers write differentiated product descriptions, a tedious task which used to take 30-40 hours a month, in one hour thanks to Gemini for Google Workspace.",
+      "techStack": [
+        "Gemini",
+        "Google Workspace",
+        "Product Descriptions"
+      ],
+      "implementationBlueprint": "Product descriptions needed -> Gemini generates -> 30-40 hours reduced to 1 hour -> Content differentiated -> Marketing accelerated"
+    },
+    {
+      "id": 408,
+      "industry": "Retail",
+      "agentType": "Creative Agents",
+      "company": "Belk",
+      "businessChallenge": "Belk ECommerce is using gen AI to craft better product descriptions, a necessary yet time-consuming task for digital retailers that was often previously done manually.",
+      "techStack": [
+        "Generative AI",
+        "Product Descriptions",
+        "E-commerce"
+      ],
+      "implementationBlueprint": "Product listing needed -> Gen AI crafts description -> Manual work eliminated -> Time saved -> Better descriptions created"
+    },
+    {
+      "id": 409,
+      "industry": "Retail",
+      "agentType": "Creative Agents",
+      "company": "Bison Coolers",
+      "businessChallenge": "Bison Coolers' 12-person team punch above their weight by using Gemini in Docs to write product descriptions that help keep their small business thriving.",
+      "techStack": [
+        "Gemini",
+        "Google Docs",
+        "Product Descriptions"
+      ],
+      "implementationBlueprint": "Product description needed -> Gemini writes in Docs -> 12-person team amplified -> Business thrives -> Small team punches above weight"
+    },
+    {
+      "id": 410,
+      "industry": "Retail",
+      "agentType": "Creative Agents",
+      "company": "Carrefour",
+      "businessChallenge": "Carrefour used Vertex AI to deploy Carrefour Marketing Studio in just five weeks — an innovative solution to streamline the creation of dynamic campaigns across various social networks. In just a few clicks, marketers can build ultra-personalized campaigns to deliver customers advertising that they care about.",
+      "techStack": [
+        "Vertex AI",
+        "Carrefour Marketing Studio",
+        "Dynamic Campaigns"
+      ],
+      "implementationBlueprint": "Campaign needed -> Marketing Studio deployed in 5 weeks -> Dynamic campaigns created -> Ultra-personalization applied -> Customers engaged"
+    },
+    {
+      "id": 411,
+      "industry": "Retail",
+      "agentType": "Creative Agents",
+      "company": "Cia.Hering",
+      "businessChallenge": "Cia.Hering, a Brazilian textile and retail company, used Google Cloud to implement AI-powered image search, which allows its customers to find desired clothing using a photo as a reference, and the Herica chatbot, which can personalize messages and answer questions. This implementation resulted in a 16% increase in click-through rates, and a 122% higher average purchase.",
+      "techStack": [
+        "Google Cloud",
+        "AI Image Search",
+        "Herica Chatbot"
+      ],
+      "implementationBlueprint": "Customer uploads photo -> AI searches similar items -> Herica personalizes -> CTR increased 16% -> Avg purchase up 122%"
+    },
+    {
+      "id": 412,
+      "industry": "Retail",
+      "agentType": "Creative Agents",
+      "company": "Comoferta.com",
+      "businessChallenge": "Comoferta.com uses Gemini and Vertex AI, to revolutionize the way Brazilian consumers compare supermarket prices. The application, which recognizes products from photos of shelves using computer vision and OCR, analyzes and compares prices in different stores, displaying the results in an organized way so that users can save on their purchases.",
+      "techStack": [
+        "Gemini",
+        "Vertex AI",
+        "Computer Vision",
+        "OCR"
+      ],
+      "implementationBlueprint": "Shelf photo taken -> Computer vision identifies products -> Prices compared -> Results organized -> Consumer saves money"
+    },
+    {
+      "id": 413,
+      "industry": "Retail",
+      "agentType": "Creative Agents",
+      "company": "Delgado Guitars",
+      "businessChallenge": "Delgado Guitars, a family business selling handcrafted guitars, uses Gemini in Gmail to send timely and personalized responses making it easier to keep sharing the family's three generations of experience with musicians worldwide.",
+      "techStack": [
+        "Gemini",
+        "Gmail",
+        "Personalized Responses"
+      ],
+      "implementationBlueprint": "Customer inquiry received -> Gemini personalizes response -> Timely reply sent -> Three generations shared -> Musicians worldwide served"
+    },
+    {
+      "id": 414,
+      "industry": "Retail",
+      "agentType": "Creative Agents",
+      "company": "Down the Road Spice Co.",
+      "businessChallenge": "Down the Road Spice Co. uses Gemini in Slides to create designs promoting its spice blends, helping the family-owned business share their multi-generational recipes with the world.",
+      "techStack": [
+        "Gemini",
+        "Google Slides",
+        "Design Creation"
+      ],
+      "implementationBlueprint": "Promotion needed -> Gemini creates designs in Slides -> Spice blends promoted -> Recipes shared -> World reached"
+    },
+    {
+      "id": 415,
+      "industry": "Retail",
+      "agentType": "Creative Agents",
+      "company": "Estee Lauder Companies",
+      "businessChallenge": "The Estee Lauder Companies utilizes Google Cloud AI, including Gemini, to power its language assistant, Ella. This tool allows brand leaders to generate various creative content, translate languages, and summarize meetings, enhancing productivity and customer experience.",
+      "techStack": [
+        "Google Cloud AI",
+        "Gemini",
+        "Ella Assistant"
+      ],
+      "implementationBlueprint": "Content needed -> Ella powered by Gemini -> Languages translated -> Meetings summarized -> Productivity enhanced"
+    },
+    {
+      "id": 416,
+      "industry": "Retail",
+      "agentType": "Creative Agents",
+      "company": "Farmatodo",
+      "businessChallenge": "Farmatodo, a Colombian chain of self-service pharmacies, uses generative AI to personalize product recommendations for customers, and automate internal processes that were previously carried out manually.",
+      "techStack": [
+        "Generative AI",
+        "Product Recommendations",
+        "Process Automation"
+      ],
+      "implementationBlueprint": "Customer shops -> Gen AI personalizes recommendations -> Internal processes automated -> Manual work eliminated -> Pharmacy efficiency improved"
+    },
+    {
+      "id": 417,
+      "industry": "Retail",
+      "agentType": "Creative Agents",
+      "company": "Grupo Pão De Açúcar",
+      "businessChallenge": "Grupo Pão De Açúcar, one of the largest retail groups in South America, adopted Vertex AI to improve sales forecasting for more than 700 stores with a portfolio of over 60,000 products in stock. This approach has generated gains in sustainability, customer satisfaction, and profitability.",
+      "techStack": [
+        "Vertex AI",
+        "Sales Forecasting",
+        "Inventory Management"
+      ],
+      "implementationBlueprint": "700+ stores analyzed -> Vertex AI forecasts sales -> 60K products optimized -> Sustainability gained -> Profitability improved"
+    },
+    {
+      "id": 418,
+      "industry": "Retail",
+      "agentType": "Creative Agents",
+      "company": "Grupo Casas Bahia",
+      "businessChallenge": "Grupo Casas Bahia is reinforcing its ecommerce and search experience with AI tools for the Brazilian market. Using Retail Search and Recommendations AI, product searches are now much more aligned with customer desires, resulting in a 28% increase in revenue per app user.",
+      "techStack": [
+        "Retail Search",
+        "Recommendations AI",
+        "E-commerce"
+      ],
+      "implementationBlueprint": "Customer searches -> Retail Search aligns results -> Recommendations personalized -> Revenue increased 28% -> App user value up"
+    },
+    {
+      "id": 419,
+      "industry": "Retail",
+      "agentType": "Creative Agents",
+      "company": "L'Oreal Groupe",
+      "businessChallenge": "L'Oreal Groupe uses Veo 2 and Imagen 3 as a creative partner, enabling teams to generate diverse, cinematic shots in less time, producing hundreds of new qualitative videos across 20 more countries and languages while upholding its \"trustworthy AI\" values.",
+      "techStack": [
+        "Veo 2",
+        "Imagen 3",
+        "Video Generation"
+      ],
+      "implementationBlueprint": "Creative need identified -> Veo 2/Imagen 3 generate content -> Cinematic shots created -> 20+ countries served -> Trustworthy AI maintained"
+    },
+    {
+      "id": 420,
+      "industry": "Retail",
+      "agentType": "Creative Agents",
+      "company": "Levi's",
+      "businessChallenge": "Levi's is using AI models to help marketing teams with the first drafts for content generation and translations, while everything still has a human in the loop.",
+      "techStack": [
+        "AI Models",
+        "Content Generation",
+        "Translation"
+      ],
+      "implementationBlueprint": "Content needed -> AI generates first draft -> Human reviews -> Translations created -> Marketing accelerated with human oversight"
+    },
+    {
+      "id": 421,
+      "industry": "Retail",
+      "agentType": "Creative Agents",
+      "company": "Mondelez",
+      "businessChallenge": "Mondelez quickly generates visuals with Imagen for global brands like Oreo and Cadbury, supporting campaigns in more than 150 countries, with the goal of achieving 25% increase in ROI from generatively created content.",
+      "techStack": [
+        "Imagen",
+        "Visual Generation",
+        "Global Marketing"
+      ],
+      "implementationBlueprint": "Campaign visuals needed -> Imagen generates quickly -> 150 countries supported -> 25% ROI goal set -> Oreo/Cadbury marketed"
+    },
+    {
+      "id": 422,
+      "industry": "Retail",
+      "agentType": "Creative Agents",
+      "company": "Procter & Gamble",
+      "businessChallenge": "Procter & Gamble used Imagen to develop an internal gen AI platform to accelerate the creation of photo-realistic images and creative assets, giving marketing teams more time to focus on high-level planning and delivering superior experiences for its consumers.",
+      "techStack": [
+        "Imagen",
+        "Gen AI Platform",
+        "Creative Assets"
+      ],
+      "implementationBlueprint": "Creative assets needed -> Imagen generates photo-realistic images -> Marketing teams freed -> High-level planning enabled -> Consumer experiences improved"
+    },
+    {
+      "id": 423,
+      "industry": "Retail",
+      "agentType": "Creative Agents",
+      "company": "Puma",
+      "businessChallenge": "Puma is using Imagen to customize product photos on its website, saving time and ensuring they are locally relevant across markets; PUMA India has already seen a 10% increase in click through rate.",
+      "techStack": [
+        "Imagen",
+        "Product Photography",
+        "Localization"
+      ],
+      "implementationBlueprint": "Product photos needed -> Imagen customizes -> Local relevance achieved -> Time saved -> India CTR up 10%"
+    },
+    {
+      "id": 424,
+      "industry": "Retail",
+      "agentType": "Creative Agents",
+      "company": "T&C Surf Design",
+      "businessChallenge": "T&C Surf Design in Hawaii writes radio copy with Gemini in Docs to help share the good vibes of 50+ years on the waves.",
+      "techStack": [
+        "Gemini",
+        "Google Docs",
+        "Radio Copy"
+      ],
+      "implementationBlueprint": "Radio copy needed -> Gemini writes in Docs -> Good vibes shared -> 50+ years celebrated -> Hawaii surf culture promoted"
+    },
+    {
+      "id": 425,
+      "industry": "Retail",
+      "agentType": "Creative Agents",
+      "company": "United Nations Population Fund",
+      "businessChallenge": "The United Nations Population Fund has found Google Workspace with Gemini to be \"a superpowered writing assistant,\" where it can help a country director get the tone and formality right in an email to a government official, or a non-English speaker get their message across the way they want to.",
+      "techStack": [
+        "Google Workspace",
+        "Gemini",
+        "Writing Assistant"
+      ],
+      "implementationBlueprint": "Communication needed -> Gemini assists writing -> Tone and formality adjusted -> Non-English speakers helped -> Messages delivered effectively"
+    },
+    {
+      "id": 426,
+      "industry": "Retail",
+      "agentType": "Creative Agents",
+      "company": "Wisconsin Cheese Mart",
+      "businessChallenge": "Wisconsin Cheese Mart uses Gemini in Docs to quickly write online product descriptions that inform a growing online customer base without taking time away from the hands-on in-store experience.",
+      "techStack": [
+        "Gemini",
+        "Google Docs",
+        "Product Descriptions"
+      ],
+      "implementationBlueprint": "Product descriptions needed -> Gemini writes quickly -> Online customers informed -> In-store experience preserved -> Time saved"
+    },
+    {
+      "id": 427,
+      "industry": "Retail",
+      "agentType": "Code Agents",
+      "company": "Leroy Merlin",
+      "businessChallenge": "Leroy Merlin, a global home improvement retailer, developed its Pull Request Analyzer using Vertex AI. This gen AI solution summarizes code changes, helping developers understand projects faster and improve code review efficiency.",
+      "techStack": [
+        "Vertex AI",
+        "Pull Request Analyzer",
+        "Code Review"
+      ],
+      "implementationBlueprint": "Pull request submitted -> Vertex AI summarizes changes -> Developers understand faster -> Review efficiency improved -> Code quality enhanced"
+    },
+    {
+      "id": 428,
+      "industry": "Retail",
+      "agentType": "Code Agents",
+      "company": "L'Oreal",
+      "businessChallenge": "L'Oreal developed an AI agent using LangChain and Cloud Run to provide text-to-text and text-to-image generation capabilities. This AI agent streamlines processes and enables faster development and deployment of gen AI applications, saving the company time and money.",
+      "techStack": [
+        "LangChain",
+        "Cloud Run",
+        "AI Agent"
+      ],
+      "implementationBlueprint": "AI agent built -> LangChain and Cloud Run deployed -> Text/image generation enabled -> Development accelerated -> Time and money saved"
+    },
+    {
+      "id": 429,
+      "industry": "Retail",
+      "agentType": "Code Agents",
+      "company": "Wayfair",
+      "businessChallenge": "Wayfair piloted Code Assist, and those developers with the code agent were able to set up their environments 55 percent faster than before; there was also a 48 percent increase in code performance during unit testing, and 60 percent of developers reported that they were able to focus on more satisfying work.",
+      "techStack": [
+        "Code Assist",
+        "Development Tools",
+        "Unit Testing"
+      ],
+      "implementationBlueprint": "Developers use Code Assist -> Environment setup 55% faster -> Unit testing performance up 48% -> 60% report more satisfying work -> Development accelerated"
+    },
+    {
+      "id": 430,
+      "industry": "Retail",
+      "agentType": "Data Agents",
+      "company": "Backcountry",
+      "businessChallenge": "Backcountry has reduced the burden of managing and maintaining infrastructure while providing a strong, secure, and scalable data foundation to deliver advanced gen AI capabilities in the future. The retailer relies on BigQuery and Looker for all of its data analytics, providing daily reports and insights that inform decision-making across the entire organization.",
+      "techStack": [
+        "BigQuery",
+        "Looker",
+        "Data Analytics"
+      ],
+      "implementationBlueprint": "Data infrastructure optimized -> BigQuery and Looker deployed -> Daily reports generated -> Insights inform decisions -> Gen AI foundation established"
+    },
+    {
+      "id": 431,
+      "industry": "Retail",
+      "agentType": "Data Agents",
+      "company": "Coop",
+      "businessChallenge": "Coop uses Vertex AI Forecast to predict product demand and optimize inventory levels in its distribution centers. This AI-powered forecasting has resulted in a 43% improvement in forecasting accuracy, leading to reduced food waste and improved sustainability.",
+      "techStack": [
+        "Vertex AI Forecast",
+        "Demand Prediction",
+        "Inventory"
+      ],
+      "implementationBlueprint": "Historical data analyzed -> Vertex AI forecasts demand -> Inventory optimized -> 43% accuracy improvement -> Food waste reduced"
+    },
+    {
+      "id": 432,
+      "industry": "Retail",
+      "agentType": "Data Agents",
+      "company": "Estee Lauder Companies",
+      "businessChallenge": "The Estee Lauder Companies leverages BigQuery to efficiently analyze data and improve operational efficiency.",
+      "techStack": [
+        "BigQuery",
+        "Data Analysis",
+        "Operations"
+      ],
+      "implementationBlueprint": "Data collected -> BigQuery analyzes -> Operational efficiency improved -> Insights generated -> Business optimized"
+    },
+    {
+      "id": 433,
+      "industry": "Retail",
+      "agentType": "Data Agents",
+      "company": "Fortenova Group",
+      "businessChallenge": "Fortenova Group, one of Croatia's leading food and retail companies, created an AI inventory helper that provides grocery store managers with fresh insights to help them place more accurate orders for perishables like fruits and vegetables, reducing food waste while boosting profits.",
+      "techStack": [
+        "AI Inventory Helper",
+        "Perishables Management",
+        "Food Retail"
+      ],
+      "implementationBlueprint": "Perishable data analyzed -> AI provides insights -> Accurate orders placed -> Food waste reduced -> Profits boosted"
+    },
+    {
+      "id": 434,
+      "industry": "Retail",
+      "agentType": "Data Agents",
+      "company": "GPC",
+      "businessChallenge": "GPC, the Genuine Parts Company, implemented a pilot program utilizing Google Distributed Cloud in one of their Atlanta stores. This modern, distributed infrastructure approach, infused with AI, provided GPC with the agility and flexibility they needed to accelerate their development cycles and streamline store infrastructure management and operations.",
+      "techStack": [
+        "Google Distributed Cloud",
+        "Store Infrastructure",
+        "AI Operations"
+      ],
+      "implementationBlueprint": "Distributed Cloud deployed -> AI infused into operations -> Development cycles accelerated -> Store management streamlined -> Agility achieved"
+    },
+    {
+      "id": 435,
+      "industry": "Retail",
+      "agentType": "Data Agents",
+      "company": "Gordon Food Services",
+      "businessChallenge": "Gordon Food Services, the largest family-operated food distribution company in North America, is transforming decision-making across the organization with AI agents connected to their enterprise data, including Google Workspace and Salesforce, to simplify insight discovery and even recommend next steps.",
+      "techStack": [
+        "AI Agents",
+        "Google Workspace",
+        "Salesforce"
+      ],
+      "implementationBlueprint": "Enterprise data connected -> AI agents analyze -> Insights discovered -> Next steps recommended -> Decision-making transformed"
+    },
+    {
+      "id": 436,
+      "industry": "Retail",
+      "agentType": "Data Agents",
+      "company": "Hunkemöller",
+      "businessChallenge": "Hunkemöller, a leading Dutch intimate apparel brand, worked with Devoteam to develop a single, scalable modern data stack on Google Cloud that enables internal development and building advanced AI solutions.",
+      "techStack": [
+        "Google Cloud",
+        "Modern Data Stack",
+        "AI Solutions"
+      ],
+      "implementationBlueprint": "Data stack built on Google Cloud -> Scalability achieved -> Internal development enabled -> AI solutions built -> Brand enhanced"
+    },
+    {
+      "id": 437,
+      "industry": "Retail",
+      "agentType": "Data Agents",
+      "company": "Jacobsen Salt Co.",
+      "businessChallenge": "Jacobsen Salt Co. uses Gemini in Sheets to organize the constantly-changing environmental data needed to produce high-quality, hand-harvested sea salt.",
+      "techStack": [
+        "Gemini",
+        "Google Sheets",
+        "Environmental Data"
+      ],
+      "implementationBlueprint": "Environmental data collected -> Gemini organizes in Sheets -> Data constantly updated -> High-quality salt produced -> Hand-harvesting optimized"
+    },
+    {
+      "id": 438,
+      "industry": "Retail",
+      "agentType": "Data Agents",
+      "company": "Kindred Post",
+      "businessChallenge": "Kindred Post — a gift shop and community space in Juneau, Alaska — forecasts inventory needs for tourist season with an intricate tracker made by Gemini in Sheets.",
+      "techStack": [
+        "Gemini",
+        "Google Sheets",
+        "Inventory Forecasting"
+      ],
+      "implementationBlueprint": "Tourist season approaching -> Gemini creates tracker -> Inventory needs forecasted -> Stock prepared -> Alaska shop ready"
+    },
+    {
+      "id": 439,
+      "industry": "Retail",
+      "agentType": "Data Agents",
+      "company": "Mercado Libre",
+      "businessChallenge": "Mercado Libre uses Vector Search and embeddings in Vertex AI to reshape online shopping by providing precise results that best match a user's query.",
+      "techStack": [
+        "Vector Search",
+        "Vertex AI Embeddings",
+        "E-commerce"
+      ],
+      "implementationBlueprint": "User searches -> Vector Search processes -> Embeddings match query -> Precise results delivered -> Online shopping reshaped"
+    },
+    {
+      "id": 440,
+      "industry": "Retail",
+      "agentType": "Data Agents",
+      "company": "NotCo",
+      "businessChallenge": "NotCo, a Chilean food tech company, partnered with Eleven Solutions to develop a conversational AI chatbot, powered by Gemini; the chatbot has revolutionized data access, allowing employees to instantly query their SAP system and gain real-time insights for faster, data-driven decision-making.",
+      "techStack": [
+        "Gemini",
+        "Conversational AI",
+        "SAP Integration"
+      ],
+      "implementationBlueprint": "Employee asks question -> Chatbot queries SAP -> Real-time insights provided -> Decision-making accelerated -> Data access revolutionized"
+    },
+    {
+      "id": 441,
+      "industry": "Retail",
+      "agentType": "Data Agents",
+      "company": "Revionics",
+      "businessChallenge": "Revionics' intelligent retail pricing platform has incorporated gen AI to turn big data into smarter pricing decisions. Revionics built a new chat-based AI agent that can help customers understand system configuration and optimization and dive deeper into data on the factors influencing pricing.",
+      "techStack": [
+        "Gen AI",
+        "Pricing Platform",
+        "Chat AI Agent"
+      ],
+      "implementationBlueprint": "Pricing data analyzed -> Gen AI processes -> Chat agent assists -> Smarter pricing decisions -> Factors understood"
+    },
+    {
+      "id": 442,
+      "industry": "Retail",
+      "agentType": "Data Agents",
+      "company": "Shopify",
+      "businessChallenge": "Shopify, the leading ecommerce platform for online merchants, completely transformed its data infrastructure to bring together all of its data and connect it with the latest groundbreaking data and AI technologies to deliver powerful business intelligence and AI insights.",
+      "techStack": [
+        "Data Infrastructure",
+        "AI Technologies",
+        "Business Intelligence"
+      ],
+      "implementationBlueprint": "Data infrastructure transformed -> All data unified -> AI technologies connected -> BI insights delivered -> E-commerce enhanced"
+    },
+    {
+      "id": 443,
+      "industry": "Retail",
+      "agentType": "Data Agents",
+      "company": "Spoon Guru",
+      "businessChallenge": "Spoon Guru uses Vertex AI to process up to 14 billion data points a day, including pack labels, ingredients, nutritional values, allergens, and other metadata, so retailers and consumers can better determine a product's suitability for any given health, nutrition or lifestyle diet.",
+      "techStack": [
+        "Vertex AI",
+        "Nutrition Data",
+        "Product Analysis"
+      ],
+      "implementationBlueprint": "14B data points processed daily -> Labels and ingredients analyzed -> Allergens identified -> Diet suitability determined -> Consumers informed"
+    },
+    {
+      "id": 444,
+      "industry": "Retail",
+      "agentType": "Data Agents",
+      "company": "Tchibo",
+      "businessChallenge": "Tchibo, a major European coffee and e-commerce company, uses Vertex AI and BigQuery to optimize its demand forecasting. This AI-powered solution, known as DEMON, generates over 6 million predictions daily, allowing Tchibo to manage warehouse supplies efficiently, reduce logistics costs, and improve product availability.",
+      "techStack": [
+        "Vertex AI",
+        "BigQuery",
+        "DEMON Forecasting"
+      ],
+      "implementationBlueprint": "DEMON analyzes demand -> 6M predictions generated daily -> Warehouse supplies optimized -> Logistics costs reduced -> Availability improved"
+    },
+    {
+      "id": 445,
+      "industry": "Retail",
+      "agentType": "Data Agents",
+      "company": "Unilever",
+      "businessChallenge": "Unilever created digitized distribution trade processes using BigQuery. Using in-depth analytics, Unilever can now process 75,000 orders daily and reach millions of retailers in emerging markets.",
+      "techStack": [
+        "BigQuery",
+        "Distribution Analytics",
+        "Trade Digitization"
+      ],
+      "implementationBlueprint": "Distribution digitized -> BigQuery processes data -> 75K orders daily -> Millions of retailers reached -> Emerging markets served"
+    },
+    {
+      "id": 446,
+      "industry": "Retail",
+      "agentType": "Data Agents",
+      "company": "The Village Store",
+      "businessChallenge": "The Village Store simplifies accounting for its two-person team with Gemini in Sheets, so they can get back to the hands-on work of running an old-town general store.",
+      "techStack": [
+        "Gemini",
+        "Google Sheets",
+        "Accounting"
+      ],
+      "implementationBlueprint": "Accounting needed -> Gemini simplifies in Sheets -> Two-person team freed -> Hands-on work enabled -> General store operated"
+    },
+    {
+      "id": 447,
+      "industry": "Retail",
+      "agentType": "Data Agents",
+      "company": "The Woobles",
+      "businessChallenge": "The Woobles tracks inventory of its beginner crochet kits faster with Gemini in Sheets, easily putting together forecasts and run rates to make sure every Wooble finds a home.",
+      "techStack": [
+        "Gemini",
+        "Google Sheets",
+        "Inventory Tracking"
+      ],
+      "implementationBlueprint": "Inventory data collected -> Gemini tracks in Sheets -> Forecasts created -> Run rates calculated -> Every Wooble homed"
+    },
+    {
+      "id": 448,
+      "industry": "Retail",
+      "agentType": "Data Agents",
+      "company": "Woodward Throwbacks",
+      "businessChallenge": "Woodward Throwbacks, a furniture company that uses reclaimed wood, tracks projects with help from Gemini in Sheets, creating monthly or project-based trackers suited to the team's needs with a single prompt.",
+      "techStack": [
+        "Gemini",
+        "Google Sheets",
+        "Project Tracking"
+      ],
+      "implementationBlueprint": "Project tracking needed -> Gemini creates trackers -> Monthly/project views -> Team needs met -> Reclaimed furniture tracked"
+    },
+    {
+      "id": 449,
+      "industry": "Retail",
+      "agentType": "Security Agents",
+      "company": "Dunelm",
+      "businessChallenge": "Dunelm, a leading UK furnishings retailer, integrated Google Security Operations with Google security partner Acora, to create a comprehensive risk profile and modernized its security operations to deliver adaptive, agile, highly automated defense against even the most sophisticated threats.",
+      "techStack": [
+        "Google Security Operations",
+        "Acora",
+        "Security Automation"
+      ],
+      "implementationBlueprint": "Security Operations integrated -> Risk profile created -> Operations modernized -> Automated defense deployed -> Sophisticated threats countered"
+    },
+    {
+      "id": 450,
+      "industry": "Retail",
+      "agentType": "Security Agents",
+      "company": "Etsy",
+      "businessChallenge": "Etsy deployed AI-powered Google Security Operations to simplify log management and ingestion, accelerated detection creation and review, and improved incident response capabilities.",
+      "techStack": [
+        "Google Security Operations",
+        "AI Security",
+        "Incident Response"
+      ],
+      "implementationBlueprint": "Security Operations deployed -> Log management simplified -> Detection accelerated -> Incident response improved -> Marketplace secured"
+    },
+    {
+      "id": 451,
+      "industry": "Retail",
+      "agentType": "Security Agents",
+      "company": "Grupo Boticário",
+      "businessChallenge": "Grupo Boticário, one of the largest beauty retail and cosmetics companies in Brazil, employs real-time security models to prevent fraud and to detect and respond to issues.",
+      "techStack": [
+        "Real-time Security",
+        "Fraud Prevention",
+        "Detection Models"
+      ],
+      "implementationBlueprint": "Transactions monitored -> Real-time models analyze -> Fraud prevented -> Issues detected -> Responses triggered"
+    },
+    {
+      "id": 452,
+      "industry": "Retail",
+      "agentType": "Security Agents",
+      "company": "ManTech",
+      "businessChallenge": "ManTech, a defense contracting firm that provides technology services to the U.S. government, launched an advanced Google Workspace practice for secure AI-driven innovation, allowing the organizations they support to \"test drive the latest in generative AI and Google Workspace…\"",
+      "techStack": [
+        "Google Workspace",
+        "Secure AI",
+        "Defense Technology"
+      ],
+      "implementationBlueprint": "Workspace practice launched -> Secure AI enabled -> Government orgs test-drive -> Innovation delivered -> Defense supported"
+    },
+    {
+      "id": 453,
+      "industry": "Retail",
+      "agentType": "Security Agents",
+      "company": "Pernambucanas",
+      "businessChallenge": "Pernambucanas, a Brazilian retailer operating in more than 340 cities, improves fraud detection through its solutions created with AI. Using Google Cloud's OCR technology, the company has reduced manual document evaluation by 80% and improves data collection through the analysis and processing of customer photos.",
+      "techStack": [
+        "Google Cloud OCR",
+        "Fraud Detection",
+        "Document AI"
+      ],
+      "implementationBlueprint": "Customer photos processed -> OCR analyzes documents -> Manual evaluation reduced 80% -> Fraud detected -> 340 cities protected"
+    },
+    {
+      "id": 454,
+      "industry": "Technology",
+      "agentType": "Customer Agents",
+      "company": "Abstrakt",
+      "businessChallenge": "Abstrakt uses Vertex AI to enhance contact center customer experiences by transcribing calls and evaluating sentiment in real-time. This empowers call center workers to have more effective conversations, resolve issues faster, and provide a better customer experience.",
+      "techStack": [
+        "Vertex AI",
+        "Call Transcription",
+        "Sentiment Analysis"
+      ],
+      "implementationBlueprint": "Call transcribed -> Sentiment evaluated real-time -> Workers empowered -> Issues resolved faster -> Customer experience improved"
+    },
+    {
+      "id": 455,
+      "industry": "Technology",
+      "agentType": "Customer Agents",
+      "company": "ADT",
+      "businessChallenge": "ADT is building a customer agent to help its millions of customers select, order, and set up their home security.",
+      "techStack": [
+        "Customer Agent",
+        "Home Security",
+        "Order Management"
+      ],
+      "implementationBlueprint": "Customer engages agent -> Security products selected -> Order placed -> Setup guided -> Millions of customers served"
+    },
+    {
+      "id": 456,
+      "industry": "Technology",
+      "agentType": "Customer Agents",
+      "company": "AUI",
+      "businessChallenge": "AUI's Apollo AI agent empowers businesses to create complex, multi-step conversational experiences for its customers. This neuro-symbolic AI agent integrates with existing systems and tools, ensuring accurate, transparent, and compliant interactions.",
+      "techStack": [
+        "Apollo AI Agent",
+        "Neuro-symbolic AI",
+        "Conversational AI"
+      ],
+      "implementationBlueprint": "Business deploys Apollo -> Multi-step conversations created -> Systems integrated -> Compliance ensured -> Customers engaged"
+    },
+    {
+      "id": 457,
+      "industry": "Technology",
+      "agentType": "Customer Agents",
+      "company": "BMC",
+      "businessChallenge": "BMC partnered with Google Cloud to bring the power of Vertex AI and Llama 3.1 to its BMC Helix platform, which has significantly boosted accuracy for conversational AI and AIOps recommendations, giving BMC customers access to cutting-edge AI solutions tailored to their needs.",
+      "techStack": [
+        "Vertex AI",
+        "Llama 3.1",
+        "BMC Helix"
+      ],
+      "implementationBlueprint": "Helix integrated with Vertex AI -> Llama 3.1 deployed -> Accuracy boosted -> AIOps enhanced -> Customer solutions tailored"
+    },
+    {
+      "id": 458,
+      "industry": "Technology",
+      "agentType": "Customer Agents",
+      "company": "Character.ai",
+      "businessChallenge": "Character.ai built its realistic conversational chat platform using the full stack of Google Cloud AI services, including for model training and daily operations, allowing it to manage terabytes of conversations each day without interruption.",
+      "techStack": [
+        "Google Cloud AI",
+        "Model Training",
+        "Conversational Platform"
+      ],
+      "implementationBlueprint": "Platform built on Google Cloud -> Models trained -> Terabytes of conversations managed -> Daily operations uninterrupted -> Realistic chats delivered"
+    },
+    {
+      "id": 459,
+      "industry": "Technology",
+      "agentType": "Customer Agents",
+      "company": "Flockx",
+      "businessChallenge": "Flockx lifts people out of loneliness by connecting individuals with events, communities, and like-minded people using collaborative AI agent technology, built with Google Cloud and Elastic.",
+      "techStack": [
+        "Google Cloud",
+        "Elastic",
+        "Collaborative AI"
+      ],
+      "implementationBlueprint": "User seeks connection -> AI agents match -> Events and communities suggested -> Like-minded people connected -> Loneliness addressed"
+    },
+    {
+      "id": 460,
+      "industry": "Technology",
+      "agentType": "Customer Agents",
+      "company": "Gojek",
+      "businessChallenge": "Gojek, an Indonesia-based super app, launched \"Dira by GoTo AI,\" a Bahasa Indonesia AI-powered voice assistant integrated into its GoPay service, allowing customers to use voice command to eliminate typing and scrolling, and complete tasks like bill payments and money transfers with fewer steps.",
+      "techStack": [
+        "GoTo AI",
+        "Voice Assistant",
+        "GoPay"
+      ],
+      "implementationBlueprint": "Customer speaks command -> Dira processes in Bahasa -> Bills paid -> Money transferred -> Steps eliminated"
+    },
+    {
+      "id": 461,
+      "industry": "Technology",
+      "agentType": "Customer Agents",
+      "company": "Hand Talk",
+      "businessChallenge": "Hand Talk uses AI to translate spoken and written Portuguese into Brazilian sign language using a virtual character named Hugo; the embedded AI translates the oral language into ASL gloss, then converts the gloss into signs, enabling communication and education for deaf individuals and their families.",
+      "techStack": [
+        "AI Translation",
+        "Sign Language",
+        "Virtual Character"
+      ],
+      "implementationBlueprint": "Portuguese spoken/written -> AI translates to ASL gloss -> Hugo signs -> Deaf individuals communicate -> Families connected"
+    },
+    {
+      "id": 462,
+      "industry": "Technology",
+      "agentType": "Customer Agents",
+      "company": "Moveo.AI",
+      "businessChallenge": "Moveo.AI uses Vertex AI to train and deploy custom AI models for creating AI-powered customer experience agents. This has resulted in faster model development, improved customer engagement, increased revenue, and reduced customer churn for Moveo.AI's clients.",
+      "techStack": [
+        "Vertex AI",
+        "Custom AI Models",
+        "CX Agents"
+      ],
+      "implementationBlueprint": "Custom models trained -> CX agents deployed -> Engagement improved -> Revenue increased -> Churn reduced"
+    },
+    {
+      "id": 463,
+      "industry": "Technology",
+      "agentType": "Customer Agents",
+      "company": "Personal AI",
+      "businessChallenge": "Personal AI offers a \"personal language model\" using only the data of one individual or brand and allowing them to control and own how it is used. Built on your own data, facts, and opinions, it creates a responsive and interactive messaging experience that helps people be more productive and deepen relationships.",
+      "techStack": [
+        "Personal Language Model",
+        "Messaging AI",
+        "Data Ownership"
+      ],
+      "implementationBlueprint": "Personal data provided -> Individual model built -> Control maintained -> Messaging enabled -> Relationships deepened"
+    },
+    {
+      "id": 464,
+      "industry": "Technology",
+      "agentType": "Customer Agents",
+      "company": "Quora",
+      "businessChallenge": "Quora developed Poe, its own generative AI platform for people to discover and chat with AI-powered bots, including Gemini, Anthropic's Claude, Meta's Llama, and Mistral's Large 2 — many of which are hosted on Google Cloud's purpose-built AI infrastructure.",
+      "techStack": [
+        "Poe Platform",
+        "Google Cloud",
+        "Multi-model AI"
+      ],
+      "implementationBlueprint": "User accesses Poe -> Multiple AI models available -> Bots discovered -> Chats initiated -> AI infrastructure powers all"
+    },
+    {
+      "id": 465,
+      "industry": "Technology",
+      "agentType": "Customer Agents",
+      "company": "Reddit",
+      "businessChallenge": "Reddit has launched Reddit Answers, its new conversation platform, which uses gen AI built with Gemini and Vertex AI that's grounded in Reddit's vast repository of information. Additionally, Reddit is using Vertex AI Search to improve its homepage experience.",
+      "techStack": [
+        "Gemini",
+        "Vertex AI",
+        "Reddit Answers"
+      ],
+      "implementationBlueprint": "User asks question -> Gen AI searches Reddit repository -> Grounded answer generated -> Homepage improved -> Conversations enhanced"
+    },
+    {
+      "id": 466,
+      "industry": "Technology",
+      "agentType": "Customer Agents",
+      "company": "Simular",
+      "businessChallenge": "Simular, part of the Google for Startups Cloud AI Accelerator, is creating personal AI agents that can use computers like a human.",
+      "techStack": [
+        "Personal AI Agents",
+        "Computer Automation",
+        "Startups Accelerator"
+      ],
+      "implementationBlueprint": "AI agent trained -> Computer usage learned -> Human-like actions performed -> Tasks automated -> Personal assistance delivered"
+    },
+    {
+      "id": 467,
+      "industry": "Technology",
+      "agentType": "Customer Agents",
+      "company": "Snap",
+      "businessChallenge": "Snap has deployed the multimodal capability of Gemini within its \"My AI\" chatbot and has since seen over 2.5-times as much engagement within Snapping to My AI in the United States.",
+      "techStack": [
+        "Gemini Multimodal",
+        "My AI Chatbot",
+        "Snapchat"
+      ],
+      "implementationBlueprint": "User snaps to My AI -> Gemini processes multimodally -> Response generated -> Engagement increased 2.5x -> US users engaged"
+    },
+    {
+      "id": 468,
+      "industry": "Technology",
+      "agentType": "Customer Agents",
+      "company": "Twilio",
+      "businessChallenge": "Twilio, a leading customer engagement platform, delivers the data, communication, and AI tools businesses need to create personalized customer experiences at scale.",
+      "techStack": [
+        "Customer Engagement",
+        "AI Tools",
+        "Personalization"
+      ],
+      "implementationBlueprint": "Business uses Twilio -> Data and AI tools deployed -> Communications personalized -> Scale achieved -> Customer experiences created"
+    },
+    {
+      "id": 469,
+      "industry": "Technology",
+      "agentType": "Employee Agents",
+      "company": "2bots",
+      "businessChallenge": "2bots offers technology solutions, such as chatbots and virtual agents, built with Google Cloud's AI solutions; these intelligent chatbots and content generation tools are transforming the way companies interact with their customers.",
+      "techStack": [
+        "Google Cloud AI",
+        "Chatbots",
+        "Virtual Agents"
+      ],
+      "implementationBlueprint": "Chatbots built with Google Cloud -> Virtual agents deployed -> Content generated -> Customer interactions transformed -> Companies served"
+    },
+    {
+      "id": 470,
+      "industry": "Technology",
+      "agentType": "Employee Agents",
+      "company": "Augment",
+      "businessChallenge": "Augment is building an AI personal assistant that offers enhanced note-taking and collects information across your apps, including calendar, email, texts, and social media, so users can more quickly and easily find personal information and keep their lives organized.",
+      "techStack": [
+        "AI Personal Assistant",
+        "Note-taking",
+        "App Integration"
+      ],
+      "implementationBlueprint": "Apps connected -> Information collected -> Notes enhanced -> Personal info found quickly -> Life organized"
+    },
+    {
+      "id": 471,
+      "industry": "Technology",
+      "agentType": "Employee Agents",
+      "company": "Box",
+      "businessChallenge": "Box has integrated Vertex AI to build new gen AI features that help customers more efficiently process and analyze data stored in the Box Content Cloud, including deep-learning-based malware detection, timely alerts about unusual activity, and content classification that can automatically protect data.",
+      "techStack": [
+        "Vertex AI",
+        "Box Content Cloud",
+        "Malware Detection"
+      ],
+      "implementationBlueprint": "Data stored in Box -> Vertex AI analyzes -> Malware detected -> Unusual activity alerted -> Content classified and protected"
+    },
+    {
+      "id": 472,
+      "industry": "Technology",
+      "agentType": "Employee Agents",
+      "company": "Causal",
+      "businessChallenge": "Causal's mission is to simplify financial planning for startups. Wanting to boost performance and maximize its time and talent, Causal used Gemini to build a generative AI-powered setup wizard that helps users connect their data, analyze patterns, and generate financial models in just five minutes.",
+      "techStack": [
+        "Gemini",
+        "Financial Planning",
+        "AI Setup Wizard"
+      ],
+      "implementationBlueprint": "Startup uses Causal -> Setup wizard guides -> Data connected in 5 minutes -> Patterns analyzed -> Financial models generated"
+    },
+    {
+      "id": 473,
+      "industry": "Technology",
+      "agentType": "Employee Agents",
+      "company": "Clodura.ai",
+      "businessChallenge": "Clodura.ai built a sales co-pilot using Vertex AI that analyzes organizational data to help B2B sellers close deals; the Vertex platform led to 71% less technical debt, 12-times faster app delivery, and resulted in significant customer growth.",
+      "techStack": [
+        "Vertex AI",
+        "Sales Co-pilot",
+        "B2B Sales"
+      ],
+      "implementationBlueprint": "Organizational data analyzed -> Sales co-pilot assists -> Deals closed -> 71% less tech debt -> 12x faster delivery"
+    },
+    {
+      "id": 474,
+      "industry": "Technology",
+      "agentType": "Employee Agents",
+      "company": "Devoteam",
+      "businessChallenge": "Devoteam is investing in AI by obtaining 4,000 Gemini Enterprise licenses to enhance productivity and collaboration, with the aim of becoming a leader in AI innovation and strengthening its ability to guide customers in their own AI journeys.",
+      "techStack": [
+        "Gemini Enterprise",
+        "Productivity",
+        "AI Innovation"
+      ],
+      "implementationBlueprint": "4,000 Gemini licenses obtained -> Productivity enhanced -> Collaboration improved -> AI leadership pursued -> Customers guided"
+    },
+    {
+      "id": 475,
+      "industry": "Technology",
+      "agentType": "Employee Agents",
+      "company": "Fireflies.ai",
+      "businessChallenge": "Fireflies.ai can transcribe, summarize, and analyze meetings, recordings, and other voice conversations to save time and improve collaboration and information sharing across teams.",
+      "techStack": [
+        "Meeting Transcription",
+        "AI Summarization",
+        "Voice Analysis"
+      ],
+      "implementationBlueprint": "Meeting recorded -> Fireflies transcribes -> Summary generated -> Analysis provided -> Team collaboration improved"
+    },
+    {
+      "id": 476,
+      "industry": "Technology",
+      "agentType": "Employee Agents",
+      "company": "Glean",
+      "businessChallenge": "Glean builds on Vertex AI and BigQuery to deliver powerful, unified enterprise search across all workplace applications, websites, and data sources used within an enterprise, helping users find exactly what you need and discover the information you need to do their best work.",
+      "techStack": [
+        "Vertex AI",
+        "BigQuery",
+        "Enterprise Search"
+      ],
+      "implementationBlueprint": "Enterprise data indexed -> Vertex AI powers search -> Applications unified -> Information discovered -> Best work enabled"
+    },
+    {
+      "id": 477,
+      "industry": "Technology",
+      "agentType": "Employee Agents",
+      "company": "LiveX AI",
+      "businessChallenge": "LiveX AI delivers AI Agents that swiftly enhance product education, boost customer conversion, reduce churn, and provide personalized customer support, with the goal of offering everyone a seamless VIP experience across their customer journey.",
+      "techStack": [
+        "AI Agents",
+        "Product Education",
+        "Customer Support"
+      ],
+      "implementationBlueprint": "AI agents deployed -> Product education enhanced -> Conversion boosted -> Churn reduced -> VIP experience delivered"
+    },
+    {
+      "id": 478,
+      "industry": "Technology",
+      "agentType": "Employee Agents",
+      "company": "Lytehouse",
+      "businessChallenge": "Lytehouse provides instant video intelligence for any CCTV camera, enabling businesses to extract security, operational, and business insights from their video data by having multimodal gen AI agents monitor their cameras 24/7 — acting as coworkers for their business.",
+      "techStack": [
+        "Multimodal Gen AI",
+        "Video Intelligence",
+        "CCTV Monitoring"
+      ],
+      "implementationBlueprint": "CCTV feeds monitored 24/7 -> Gen AI analyzes video -> Security insights extracted -> Operational insights delivered -> Business coworker enabled"
+    },
+    {
+      "id": 479,
+      "industry": "Technology",
+      "agentType": "Employee Agents",
+      "company": "Maqqie",
+      "businessChallenge": "Maqqie, a Dutch startup, worked with Rappit to transform the future of HR recruitment, harnessing the power Vertex AI and its pretrained models to pinpoint the best candidates from its pool of 43,000 profiles, increasing revenue and retention.",
+      "techStack": [
+        "Vertex AI",
+        "HR Recruitment",
+        "Candidate Matching"
+      ],
+      "implementationBlueprint": "43K profiles analyzed -> Vertex AI matches candidates -> Best fits pinpointed -> Revenue increased -> Retention improved"
+    },
+    {
+      "id": 480,
+      "industry": "Technology",
+      "agentType": "Employee Agents",
+      "company": "Quantum Metric",
+      "businessChallenge": "Quantum Metric has introduced Felix AI, powered by Gemini Pro, to simplify digital analytics and decision-making. Felix AI automatically summarizes a user's web or mobile session and consolidates the moments that matter most into short, readable summaries for customer service workers.",
+      "techStack": [
+        "Gemini Pro",
+        "Felix AI",
+        "Digital Analytics"
+      ],
+      "implementationBlueprint": "User session captured -> Felix AI summarizes -> Key moments consolidated -> CS workers informed -> Decision-making simplified"
+    },
+    {
+      "id": 481,
+      "industry": "Technology",
+      "agentType": "Employee Agents",
+      "company": "Rubrik",
+      "businessChallenge": "Rubrik, a cybersecurity company, is leveraging knowledge agents in Agentspace to develop deeper customer insights and prepare for impactful sales interactions.",
+      "techStack": [
+        "Agentspace",
+        "Knowledge Agents",
+        "Customer Insights"
+      ],
+      "implementationBlueprint": "Knowledge agents deployed -> Customer insights developed -> Sales preparation enhanced -> Impactful interactions delivered -> Cybersecurity sold"
+    },
+    {
+      "id": 482,
+      "industry": "Technology",
+      "agentType": "Employee Agents",
+      "company": "Salesforce",
+      "businessChallenge": "Salesforce is working with Google Cloud to create AI agents that work across both platforms using the newly launched Agent2Agent (A2A) open protocol.",
+      "techStack": [
+        "Agent2Agent Protocol",
+        "Cross-platform AI",
+        "Google Cloud"
+      ],
+      "implementationBlueprint": "A2A protocol implemented -> AI agents created -> Platforms connected -> Cross-platform work enabled -> Collaboration achieved"
+    },
+    {
+      "id": 483,
+      "industry": "Technology",
+      "agentType": "Employee Agents",
+      "company": "SAP",
+      "businessChallenge": "SAP is using Vertex AI and Gemini in its the SAP Business Technology Platform, so business users now have new opportunities to gain actionable insights from their data using natural, everyday language.",
+      "techStack": [
+        "Vertex AI",
+        "Gemini",
+        "SAP BTP"
+      ],
+      "implementationBlueprint": "Business user asks question -> Natural language processed -> SAP data queried -> Actionable insights provided -> Business decisions informed"
+    },
+    {
+      "id": 484,
+      "industry": "Technology",
+      "agentType": "Employee Agents",
+      "company": "ServiceNow",
+      "businessChallenge": "ServiceNow CRM works with Customer Engagement Suite, helping automate and personalize customer interactions across systems.",
+      "techStack": [
+        "Customer Engagement Suite",
+        "CRM Automation",
+        "Personalization"
+      ],
+      "implementationBlueprint": "CRM connected -> Interactions automated -> Personalization applied -> Systems unified -> Customer engagement enhanced"
+    },
+    {
+      "id": 485,
+      "industry": "Technology",
+      "agentType": "Employee Agents",
+      "company": "TransCrypts",
+      "businessChallenge": "TransCrypts leverages Llama on Google Cloud to bring its AI-powered copilot, Castello, to thousands of customers in a matter of days. The performance and cost-efficiency of TPUs allow them to deploy these advanced models at lightning speed, handling complex workloads that would otherwise be out of reach.",
+      "techStack": [
+        "Llama on Google Cloud",
+        "TPUs",
+        "Castello Copilot"
+      ],
+      "implementationBlueprint": "Castello deployed on TPUs -> Llama models power -> Complex workloads handled -> Lightning-speed deployment -> Thousands of customers served"
+    },
+    {
+      "id": 486,
+      "industry": "Technology",
+      "agentType": "Employee Agents",
+      "company": "Typeface",
+      "businessChallenge": "Typeface uses gen AI to allow brands to create captivating content that deeply engages customers at scale, improving operational efficiency while retaining branding consistency and control.",
+      "techStack": [
+        "Generative AI",
+        "Content Creation",
+        "Brand Consistency"
+      ],
+      "implementationBlueprint": "Brand uses Typeface -> Gen AI creates content -> Scale achieved -> Branding maintained -> Customer engagement increased"
+    },
+    {
+      "id": 487,
+      "industry": "Technology",
+      "agentType": "Employee Agents",
+      "company": "WebFX",
+      "businessChallenge": "WebFX uses Gemini in Google Workspace to brainstorm content, write emails, and plan projects in order to save time and improve the quality of work.",
+      "techStack": [
+        "Gemini",
+        "Google Workspace",
+        "Content Brainstorming"
+      ],
+      "implementationBlueprint": "Content needed -> Gemini brainstorms -> Emails written -> Projects planned -> Time saved and quality improved"
+    },
+    {
+      "id": 488,
+      "industry": "Technology",
+      "agentType": "Creative Agents",
+      "company": "Bewe",
+      "businessChallenge": "Bewe, a Colombian digital transformation platform for small and medium-sized enterprises, has created an assistant with Google Cloud's generative AI that helps businesses in the region improve customer management and loyalty, increasing conversions and user satisfaction.",
+      "techStack": [
+        "Google Cloud Gen AI",
+        "SME Platform",
+        "Customer Management"
+      ],
+      "implementationBlueprint": "SME uses Bewe -> Gen AI assistant engaged -> Customer management improved -> Loyalty increased -> Conversions boosted"
+    },
+    {
+      "id": 489,
+      "industry": "Technology",
+      "agentType": "Creative Agents",
+      "company": "Birdie.ai",
+      "businessChallenge": "Birdie.ai transforms customer feedback into insights for companies, with generative AI providing the support they need to take action. With this technology, the company has saved 3.5X more per text processed, and reduced data analysis time.",
+      "techStack": [
+        "Generative AI",
+        "Customer Feedback",
+        "Text Analysis"
+      ],
+      "implementationBlueprint": "Customer feedback collected -> Gen AI processes text -> Insights generated -> Action supported -> 3.5X savings achieved"
+    },
+    {
+      "id": 490,
+      "industry": "Technology",
+      "agentType": "Creative Agents",
+      "company": "Bosch Digital",
+      "businessChallenge": "Bosch Digital, one of Europe's leading technology and services companies, is leveraging Gemini models to make deeper connections with its global audiences: many business units have begun localizing marketing content for a diverse range of markets and demographics — saving time and costs.",
+      "techStack": [
+        "Gemini",
+        "Marketing Localization",
+        "Content Creation"
+      ],
+      "implementationBlueprint": "Marketing content created -> Gemini localizes -> Markets and demographics served -> Time saved -> Costs reduced"
+    },
+    {
+      "id": 491,
+      "industry": "Technology",
+      "agentType": "Creative Agents",
+      "company": "ClearObject",
+      "businessChallenge": "ClearObject, a developer of visual AI services, is using Gemini for Google Workspace to boost both external and internal content creation, exemplified by its marketing team crafting a targeted LinkedIn strategy with Gemini's assistance.",
+      "techStack": [
+        "Gemini",
+        "Google Workspace",
+        "Visual AI"
+      ],
+      "implementationBlueprint": "Content creation needed -> Gemini assists -> LinkedIn strategy crafted -> External/internal content boosted -> Marketing enhanced"
+    },
+    {
+      "id": 492,
+      "industry": "Technology",
+      "agentType": "Creative Agents",
+      "company": "fal",
+      "businessChallenge": "fal is a generative media platform for developers, accelerating the inference of gen AI models to improve the speed in which content is generated. The fal team is working with Google Cloud to integrate its Veo 2 technology, empowering its users to create videos with realistic motion and high-quality output.",
+      "techStack": [
+        "Veo 2",
+        "Google Cloud",
+        "Gen AI Inference"
+      ],
+      "implementationBlueprint": "Developer uses fal -> Inference accelerated -> Veo 2 integrated -> Videos created -> Realistic motion achieved"
+    },
+    {
+      "id": 493,
+      "industry": "Technology",
+      "agentType": "Creative Agents",
+      "company": "Higgsfield.ai",
+      "businessChallenge": "Higgsfield.ai built a number of text-to-video apps for consumers, including Diffuse 2.0, which can combine users' photos, videos, and texts through AI models to create more realistic avatars.",
+      "techStack": [
+        "Text-to-Video",
+        "AI Avatars",
+        "Diffuse 2.0"
+      ],
+      "implementationBlueprint": "User uploads photos/videos -> AI combines content -> Diffuse 2.0 processes -> Realistic avatars created -> Consumer apps served"
+    },
+    {
+      "id": 494,
+      "industry": "Technology",
+      "agentType": "Creative Agents",
+      "company": "Hunty",
+      "businessChallenge": "Hunty, a Colombian HR startup, automated, scaled, and streamlined its hiring processes with generative AI solutions, helping clients improve candidate interviews and selections, and facilitating hiring.",
+      "techStack": [
+        "Generative AI",
+        "HR Automation",
+        "Hiring Solutions"
+      ],
+      "implementationBlueprint": "Hiring process analyzed -> Gen AI automates -> Interviews improved -> Selections streamlined -> Hiring facilitated"
+    },
+    {
+      "id": 495,
+      "industry": "Technology",
+      "agentType": "Creative Agents",
+      "company": "Jasper",
+      "businessChallenge": "Jasper trains its suite of creativity-, writing-, and marketing-focused AI models on Google's AI infrastructure, delivering on-brand, data-optimized assets faster and at scale to teams large and small.",
+      "techStack": [
+        "Google AI Infrastructure",
+        "Marketing AI",
+        "Content Creation"
+      ],
+      "implementationBlueprint": "AI models trained on Google infrastructure -> On-brand assets created -> Scale achieved -> Teams served -> Marketing accelerated"
+    },
+    {
+      "id": 496,
+      "industry": "Technology",
+      "agentType": "Creative Agents",
+      "company": "Nerdmonster",
+      "businessChallenge": "Nerdmonster used Vision AI and Vertex AI to analyze and categorize images and videos published on consumers' digital channels. Now, the retail intelligence provider can then identify objects, scenes, emotions, and texts, generating insights that help large retail chains and franchises optimize campaigns and identify opportunities.",
+      "techStack": [
+        "Vision AI",
+        "Vertex AI",
+        "Retail Intelligence"
+      ],
+      "implementationBlueprint": "Images/videos analyzed -> Objects and emotions identified -> Insights generated -> Campaigns optimized -> Opportunities identified"
+    },
+    {
+      "id": 497,
+      "industry": "Technology",
+      "agentType": "Creative Agents",
+      "company": "Pix Force",
+      "businessChallenge": "Pix Force is part of the visual inspection sector and is investing in gen AI to collaborate on around 80% of document reading services. The company reduced the time to read documents and personal authorizations from three days to 15 minutes.",
+      "techStack": [
+        "Generative AI",
+        "Visual Inspection",
+        "Document Reading"
+      ],
+      "implementationBlueprint": "Documents submitted -> Gen AI reads 80% -> 3 days reduced to 15 minutes -> Authorizations processed -> Visual inspection enhanced"
+    },
+    {
+      "id": 498,
+      "industry": "Technology",
+      "agentType": "Creative Agents",
+      "company": "Scaleup",
+      "businessChallenge": "Scaleup has created an AI-based technology that transcribes video lessons and generates subtitles in up to seven languages. This innovation improved content absorption and reduced student dropout rates before the end of the course by 17%.",
+      "techStack": [
+        "AI Transcription",
+        "Subtitle Generation",
+        "Education Tech"
+      ],
+      "implementationBlueprint": "Video lessons transcribed -> Subtitles generated in 7 languages -> Content absorption improved -> Dropout reduced 17% -> Students retained"
     }
   ]
 }
