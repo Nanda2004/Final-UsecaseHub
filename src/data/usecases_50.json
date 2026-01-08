@@ -6465,6 +6465,1215 @@
         "Education Tech"
       ],
       "implementationBlueprint": "Video lessons transcribed -> Subtitles generated in 7 languages -> Content absorption improved -> Dropout reduced 17% -> Students retained"
+    },
+    {
+      "id": 499,
+      "industry": "Technology",
+      "agentType": "Creative Agents",
+      "company": "Trakto",
+      "businessChallenge": "Trakto has launched a platform that uses generative AI to automate ad creation at scale. The initiative allows for quick text generation and text-to-speech conversion, providing customers with a complete and scalable marketing solution.",
+      "techStack": [
+        "Generative AI",
+        "Ad Automation",
+        "Text-to-Speech"
+      ],
+      "implementationBlueprint": "Ad creation needed -> Gen AI automates -> Text generated -> Speech converted -> Scalable marketing delivered"
+    },
+    {
+      "id": 500,
+      "industry": "Technology",
+      "agentType": "Creative Agents",
+      "company": "Typeface",
+      "businessChallenge": "Typeface enables users to automate marketing workloads and across content creation with AI.",
+      "techStack": [
+        "Marketing Automation",
+        "AI Content",
+        "Workflow Tools"
+      ],
+      "implementationBlueprint": "Marketing workload identified -> AI automates -> Content created -> Workloads reduced -> Efficiency achieved"
+    },
+    {
+      "id": 501,
+      "industry": "Technology",
+      "agentType": "Code Agents",
+      "company": "accessiBe",
+      "businessChallenge": "accessiBe develops technological solutions that help businesses do the very best they can to tackle web accessibility. Google Cloud AI helps accessiBe streamline its development process, reducing time-to-deploy by 5X; accessiBe's solutions, accessWidget and accessFlow, run on a 100% serverless environment and improve the accessibility of over 23,000 business websites.",
+      "techStack": [
+        "Google Cloud AI",
+        "Web Accessibility",
+        "Serverless"
+      ],
+      "implementationBlueprint": "Development streamlined -> Time-to-deploy reduced 5X -> Serverless deployment -> 23K websites improved -> Accessibility achieved"
+    },
+    {
+      "id": 502,
+      "industry": "Technology",
+      "agentType": "Code Agents",
+      "company": "Ai2",
+      "businessChallenge": "Ai2's full portfolio of open AI models are accessible on Vertex AI Model Garden.",
+      "techStack": [
+        "Vertex AI Model Garden",
+        "Open AI Models",
+        "Model Access"
+      ],
+      "implementationBlueprint": "AI models published -> Model Garden hosts -> Developers access -> Open models used -> AI democratized"
+    },
+    {
+      "id": 503,
+      "industry": "Technology",
+      "agentType": "Code Agents",
+      "company": "Anyscale",
+      "businessChallenge": "Anyscale's Ray compute engine has made it easier for developers to scale the most complex workloads such as multimodal data processing, model training, and inference across traditional and generative AI. Ray is built using GPUs and TPUs on Google Cloud, offering greater AI infrastructure flexibility to users.",
+      "techStack": [
+        "Ray Compute Engine",
+        "Google Cloud GPUs/TPUs",
+        "Distributed Computing"
+      ],
+      "implementationBlueprint": "Complex workload needed -> Ray engine scales -> GPUs/TPUs utilized -> Multimodal processing enabled -> Infrastructure flexibility achieved"
+    },
+    {
+      "id": 504,
+      "industry": "Technology",
+      "agentType": "Code Agents",
+      "company": "Anysphere",
+      "businessChallenge": "Anysphere, the startup behind the AI-powered code editor Cursor, is now using Anthropic's Claude models on Google Cloud to scale its AI coding assistant to more developers.",
+      "techStack": [
+        "Claude on Google Cloud",
+        "Cursor Editor",
+        "AI Coding"
+      ],
+      "implementationBlueprint": "Cursor uses Claude -> Google Cloud scales -> AI coding assisted -> More developers served -> Editor capabilities expanded"
+    },
+    {
+      "id": 505,
+      "industry": "Technology",
+      "agentType": "Code Agents",
+      "company": "Arize AI",
+      "businessChallenge": "Arize AI leverages Google Cloud technologies like Google Kubernetes Engine and BigQuery to scale its AI observability and LLM evaluation platform, enabling businesses to effectively manage and deploy AI applications. As a result, Arize AI has experienced significant growth and is able to support the increasing demand for its platform.",
+      "techStack": [
+        "GKE",
+        "BigQuery",
+        "AI Observability"
+      ],
+      "implementationBlueprint": "AI apps deployed -> Arize observes -> LLMs evaluated -> BigQuery scales -> Demand supported"
+    },
+    {
+      "id": 506,
+      "industry": "Technology",
+      "agentType": "Code Agents",
+      "company": "Box",
+      "businessChallenge": "Box is already leveraging Gemini 2.5 to deliver more sophisticated, higher-value applications.",
+      "techStack": [
+        "Gemini 2.5",
+        "Application Development",
+        "AI Integration"
+      ],
+      "implementationBlueprint": "Gemini 2.5 integrated -> Applications enhanced -> Higher value delivered -> Sophistication increased -> Box capabilities expanded"
+    },
+    {
+      "id": 507,
+      "industry": "Technology",
+      "agentType": "Code Agents",
+      "company": "Canonical",
+      "businessChallenge": "Canonical collaborated with Google Cloud to optimize Ubuntu as a trusted, AI-ready infrastructure, designed for sovereignty, scalability, and control, serving a range of data-intensive use cases.",
+      "techStack": [
+        "Ubuntu",
+        "Google Cloud",
+        "AI Infrastructure"
+      ],
+      "implementationBlueprint": "Ubuntu optimized -> AI-ready infrastructure created -> Sovereignty ensured -> Scalability achieved -> Data-intensive use cases served"
+    },
+    {
+      "id": 508,
+      "industry": "Technology",
+      "agentType": "Code Agents",
+      "company": "Cognizant",
+      "businessChallenge": "Cognizant uses Gemini and Vertex AI to assist in software development, improving code quality and developer productivity. By integrating Gemini into its internal operations and platforms, Cognizant aims to enhance insights, optimize processes, and improve user experiences.",
+      "techStack": [
+        "Gemini",
+        "Vertex AI",
+        "Software Development"
+      ],
+      "implementationBlueprint": "Gemini integrated -> Code quality improved -> Developer productivity increased -> Processes optimized -> User experiences enhanced"
+    },
+    {
+      "id": 509,
+      "industry": "Technology",
+      "agentType": "Code Agents",
+      "company": "Crew AI",
+      "businessChallenge": "Crew AI is providing agent-building frameworks in Vertex AI, so organizations can streamline workflows across industries with powerful AI agents.",
+      "techStack": [
+        "Vertex AI",
+        "Agent Frameworks",
+        "Workflow Automation"
+      ],
+      "implementationBlueprint": "Agent framework deployed -> Vertex AI powers -> Workflows streamlined -> Industries served -> AI agents built"
+    },
+    {
+      "id": 510,
+      "industry": "Technology",
+      "agentType": "Code Agents",
+      "company": "HydroX AI",
+      "businessChallenge": "HydroX AI, part of the Google for Startups Cloud AI Accelerator, automate risk evaluation and compliance for gen AI models, helping to prevent unintended consequences and harmful behaviors so businesses can fully harness AI potential without sacrificing safety.",
+      "techStack": [
+        "Risk Evaluation",
+        "AI Compliance",
+        "Safety Automation"
+      ],
+      "implementationBlueprint": "Gen AI models evaluated -> Risks identified -> Compliance automated -> Harmful behaviors prevented -> AI potential harnessed safely"
+    },
+    {
+      "id": 511,
+      "industry": "Technology",
+      "agentType": "Code Agents",
+      "company": "Instalily",
+      "businessChallenge": "Instalily, part of the Google for Startups Cloud AI Accelerator, is building a vertical AI agent platform that can build and operate entire teams of specialized AI agents that help automate B2B workflows across various departments.",
+      "techStack": [
+        "Vertical AI Platform",
+        "Agent Teams",
+        "B2B Automation"
+      ],
+      "implementationBlueprint": "Vertical platform built -> AI agent teams created -> B2B workflows automated -> Departments served -> Specialization achieved"
+    },
+    {
+      "id": 512,
+      "industry": "Technology",
+      "agentType": "Code Agents",
+      "company": "Kahuna Labs",
+      "businessChallenge": "Kahuna Labs, part of the Google for Startups Cloud AI Accelerator, is building the industry's first AI platform purpose-built for technical product support.",
+      "techStack": [
+        "AI Support Platform",
+        "Technical Products",
+        "Purpose-built AI"
+      ],
+      "implementationBlueprint": "Support platform built -> Technical products covered -> Purpose-built AI deployed -> Industry-first achieved -> Support revolutionized"
+    },
+    {
+      "id": 513,
+      "industry": "Technology",
+      "agentType": "Code Agents",
+      "company": "Labelbox",
+      "businessChallenge": "Labelbox has built a fully managed AI model evaluation solution directly integrated into the Vertex AI platform, allowing Google Cloud users to seamlessly launch human evaluation jobs and set specific criteria for evaluation, such as question-answering and summarization; this eases and accelerates the ability to deploy human-in-the-loop AI systems with higher levels of trust and authority.",
+      "techStack": [
+        "Vertex AI",
+        "Model Evaluation",
+        "Human-in-the-Loop"
+      ],
+      "implementationBlueprint": "Evaluation solution integrated -> Human evaluation launched -> Criteria set -> Trust increased -> AI systems deployed"
+    },
+    {
+      "id": 514,
+      "industry": "Technology",
+      "agentType": "Code Agents",
+      "company": "Linear",
+      "businessChallenge": "Linear, a product development platform, built Similar Issues, a feature that uses AI to detect and prevent duplicate or overlapping tickets and ensures cleaner and more accurate data representation.",
+      "techStack": [
+        "AI Issue Detection",
+        "Product Development",
+        "Duplicate Prevention"
+      ],
+      "implementationBlueprint": "Ticket submitted -> AI detects similarities -> Duplicates prevented -> Data cleaned -> Accuracy ensured"
+    },
+    {
+      "id": 515,
+      "industry": "Technology",
+      "agentType": "Code Agents",
+      "company": "Magic",
+      "businessChallenge": "Magic is building a developer platform with a 100-million-token context window, so organizations can upload extremely large code bases and more easily query and build on them using gen AI assistance.",
+      "techStack": [
+        "100M Token Context",
+        "Developer Platform",
+        "Code AI"
+      ],
+      "implementationBlueprint": "Large codebase uploaded -> 100M token context -> Gen AI queries -> Code built -> Organizations served"
+    },
+    {
+      "id": 516,
+      "industry": "Technology",
+      "agentType": "Code Agents",
+      "company": "Meta",
+      "businessChallenge": "Meta has partnered with Google Cloud to offer its Llama models on Vertex AI. The Llama models prioritize accessibility, efficiency, and privacy, with a focus on responsible innovation and system-level safety.",
+      "techStack": [
+        "Llama Models",
+        "Vertex AI",
+        "Responsible AI"
+      ],
+      "implementationBlueprint": "Llama models hosted on Vertex AI -> Accessibility ensured -> Efficiency delivered -> Privacy maintained -> Responsible innovation achieved"
+    },
+    {
+      "id": 517,
+      "industry": "Technology",
+      "agentType": "Code Agents",
+      "company": "NetApp",
+      "businessChallenge": "NetApp allows organizations to build AI agents with Agentspace directly on their existing NetApp data — no data duplication required.",
+      "techStack": [
+        "Agentspace",
+        "NetApp Data",
+        "AI Agents"
+      ],
+      "implementationBlueprint": "NetApp data accessed -> Agentspace builds agents -> No duplication needed -> Organizations enabled -> AI deployed on existing data"
+    },
+    {
+      "id": 518,
+      "industry": "Technology",
+      "agentType": "Code Agents",
+      "company": "Pinecone",
+      "businessChallenge": "Pinecone provides infrastructure for developers to build accurate, secure, and scalable AI applications, allowing companies to easily ground gen AI apps in their proprietary data for use in AI search, retrieval-augmented generation, coding agents, and more.",
+      "techStack": [
+        "Vector Database",
+        "RAG Infrastructure",
+        "AI Search"
+      ],
+      "implementationBlueprint": "Proprietary data indexed -> Vector search enabled -> RAG powered -> AI apps grounded -> Accurate results delivered"
+    },
+    {
+      "id": 519,
+      "industry": "Technology",
+      "agentType": "Code Agents",
+      "company": "Quantiphi",
+      "businessChallenge": "Quantiphi saw developer productivity gains of more than 30% during its Code Assist pilot.",
+      "techStack": [
+        "Code Assist",
+        "Developer Productivity",
+        "AI Coding"
+      ],
+      "implementationBlueprint": "Code Assist piloted -> Developers assisted -> 30% productivity gain -> Coding accelerated -> Pilot successful"
+    },
+    {
+      "id": 520,
+      "industry": "Technology",
+      "agentType": "Code Agents",
+      "company": "Replit",
+      "businessChallenge": "Replit developers will get access to Google Cloud infrastructure, services, and foundation models via Ghostwriter, Replit's software development AI, while Google Cloud and Workspace developers will get access to Replit's collaborative code editing platform.",
+      "techStack": [
+        "Ghostwriter",
+        "Google Cloud",
+        "Collaborative Coding"
+      ],
+      "implementationBlueprint": "Ghostwriter accesses Google Cloud -> Foundation models available -> Collaborative editing enabled -> Developers connected -> Platforms integrated"
+    },
+    {
+      "id": 521,
+      "industry": "Technology",
+      "agentType": "Code Agents",
+      "company": "Safe Superintelligence",
+      "businessChallenge": "Safe Superintelligence is partnering with Google Cloud to use its TPUs to accelerate its research and development efforts toward building a safe, superintelligent AI.",
+      "techStack": [
+        "Google Cloud TPUs",
+        "AI Research",
+        "Superintelligence"
+      ],
+      "implementationBlueprint": "TPUs accessed -> R&D accelerated -> Safe AI researched -> Superintelligence pursued -> Safety prioritized"
+    },
+    {
+      "id": 522,
+      "industry": "Technology",
+      "agentType": "Code Agents",
+      "company": "Snorkel AI",
+      "businessChallenge": "Snorkel AI, an AI application development company, uses Google Cloud to deploy Snorkel Flow, a data-centric platform that accelerates AI application development by up to 100 times. This platform makes AI development easy by reducing AI development time, labeling data in minutes, and adapting to data changes without manual relabeling.",
+      "techStack": [
+        "Google Cloud",
+        "Snorkel Flow",
+        "Data-Centric AI"
+      ],
+      "implementationBlueprint": "AI application development needed -> Snorkel Flow deployed on Google Cloud -> Data labeled in minutes -> Models adapt to data changes -> AI development accelerated up to 100x"
+    },
+    {
+      "id": 523,
+      "industry": "Technology",
+      "agentType": "Code Agents",
+      "company": "Turing",
+      "businessChallenge": "Turing is customizing Gemini Code Assist on its private codebase, empowering its developers with highly personalized and contextually relevant coding suggestions that have increased productivity by around 30% and made day-to-day coding more enjoyable.",
+      "techStack": [
+        "Gemini Code Assist",
+        "Developer Productivity",
+        "Private Codebase"
+      ],
+      "implementationBlueprint": "Private codebase connected -> Gemini Code Assist customized -> Context-aware suggestions generated -> Developer productivity increased ~30% -> Coding experience improved"
+    },
+    {
+      "id": 524,
+      "industry": "Technology",
+      "agentType": "Code Agents",
+      "company": "Weights & Biases",
+      "businessChallenge": "Weights & Biases, a creator of AI tools for developers, created W&B Weave, a lightweight toolkit to track, evaluate, and debug gen AI applications built with Gemini, so teams can confidently go from demo to production.",
+      "techStack": [
+        "W&B Weave",
+        "Gemini",
+        "Gen AI Observability"
+      ],
+      "implementationBlueprint": "Gen AI app built with Gemini -> W&B Weave integrated -> Applications tracked and evaluated -> Debugging enabled -> Confident move from demo to production"
+    },
+    {
+      "id": 525,
+      "industry": "Technology",
+      "agentType": "Code Agents",
+      "company": "Writer",
+      "businessChallenge": "Writer builds and trains over 17 large language models that scale up to 70 billion parameters for custom AI models using Google Cloud and NVIDIA.",
+      "techStack": [
+        "Google Cloud",
+        "NVIDIA",
+        "Large Language Models"
+      ],
+      "implementationBlueprint": "Custom AI model required -> LLMs trained on Google Cloud -> NVIDIA accelerates compute -> Models scale to 70B parameters -> Enterprise-grade AI delivered"
+    },
+    {
+      "id": 526,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "180 Seguros",
+      "businessChallenge": "180 Seguros is powering its data management platform for employees with Google Cloud AI and BigQuery to improve operational metric tracking, allowing for 3X faster query times.",
+      "techStack": [
+        "Google Cloud AI",
+        "BigQuery",
+        "Data Management"
+      ],
+      "implementationBlueprint": "Employee data platform used -> Google Cloud AI and BigQuery integrated -> Operational metrics tracked -> Query performance optimized -> 3X faster insights delivered"
+    },
+    {
+      "id": 527,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "Addy AI",
+      "businessChallenge": "Addy AI is helping mortgage lenders and banks automate their lending processes with custom AI models trained on Vertex AI. For example, the platform can extract loan opportunity details from lengthy email threads with numerous attachments.",
+      "techStack": [
+        "Vertex AI",
+        "Custom AI Models",
+        "Lending Automation"
+      ],
+      "implementationBlueprint": "Lending data received -> Vertex AI models process emails -> Loan details extracted -> Attachments analyzed -> Lending workflows automated"
+    },
+    {
+      "id": 528,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "Agromai",
+      "businessChallenge": "Agromai uses a unified platform, powered by Google Cloud, to provide financial institutions and insurers with highly accurate risk analysis of agricultural plots. Using AI models, the company has realized significant performance gains and can now classify up to 10 million hectares per day.",
+      "techStack": [
+        "Google Cloud",
+        "AI Risk Analysis",
+        "Geospatial Data"
+      ],
+      "implementationBlueprint": "Agricultural data collected -> Unified platform on Google Cloud -> AI models analyze risk -> Land classified at scale -> Up to 10M hectares processed daily"
+    },
+    {
+      "id": 529,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "AI21 Labs",
+      "businessChallenge": "AI21 Labs has partnered with Google Cloud to bring the power of the Jamba 1.5 Model Family to Vertex AI. This integration offers enterprise models designed to excel in high-demand tasks like summarization, reasoning, and creative content generation.",
+      "techStack": [
+        "Vertex AI",
+        "Jamba 1.5 Models",
+        "Enterprise AI"
+      ],
+      "implementationBlueprint": "Jamba models integrated -> Vertex AI hosts models -> Enterprises access capabilities -> Summarization and reasoning enabled -> Creative content generated at scale"
+    },
+    {
+      "id": 530,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "Aluga Mais",
+      "businessChallenge": "Aluga Mais uses Vertex AI to analyze data and create a financial profile of its customers, checking civil and criminal proceedings, financial behavior, and income to the bureaucracy of the rental market in Brazil. With Document AI and BigQuery, the startup has also reduced the time for registration analysis from 90 minutes to just 24 seconds.",
+      "techStack": [
+        "Vertex AI",
+        "Document AI",
+        "BigQuery"
+      ],
+      "implementationBlueprint": "Customer data submitted -> Vertex AI analyzes profiles -> Document AI processes records -> BigQuery aggregates data -> Registration time reduced to 24 seconds"
+    },
+    {
+      "id": 531,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "Anthropic",
+      "businessChallenge": "Anthropic has partnered with Google Cloud to offer its Claude models on Vertex AI Model Garden. This provides organizations with more model options for intelligence, speed, and cost-efficiency.",
+      "techStack": [
+        "Vertex AI Model Garden",
+        "Claude Models",
+        "Cloud AI"
+      ],
+      "implementationBlueprint": "Claude models hosted -> Vertex AI Model Garden enabled -> Organizations select models -> Performance and cost optimized -> AI adoption expanded"
+    },
+    {
+      "id": 532,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "Arquivei",
+      "businessChallenge": "Arquivei, which helps manage electronic tax documents quickly and securely, uses Google Cloud gen AI to discover insights and relevant data from a large volume of accounting data, as well as gaining the ability to convert tax reports into insights.",
+      "techStack": [
+        "Google Cloud Gen AI",
+        "Accounting Data",
+        "Tax Analytics"
+      ],
+      "implementationBlueprint": "Electronic tax documents ingested -> Gen AI analyzes accounting data -> Relevant insights extracted -> Tax reports converted -> Secure financial intelligence delivered"
+    },
+    {
+      "id": 533,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "Atlantia.ai",
+      "businessChallenge": "Atlantia.ai, a Mexican startup, is using Vertex AI and Vertex AI Search to build a platform allowing users to compare product offers in real-time based on preferences and location.",
+      "techStack": [
+        "Vertex AI",
+        "Vertex AI Search",
+        "Real-time Comparison"
+      ],
+      "implementationBlueprint": "User preferences provided -> Vertex AI Search processes data -> Product offers compared in real time -> Location context applied -> Best options surfaced"
+    },
+    {
+      "id": 534,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "Birdie.ai",
+      "businessChallenge": "Birdie.ai specializes in customer feedback analytics that provides actionable insights to companies. Using Gemini 1.5 Flash and Vertex AI, Birdie achieved a 9% improvement in model accuracy to attain a 96% accuracy rate while reducing the processed unit costs by 15%.",
+      "techStack": [
+        "Gemini 1.5 Flash",
+        "Vertex AI",
+        "Customer Feedback Analytics"
+      ],
+      "implementationBlueprint": "Customer feedback collected -> Gemini and Vertex AI analyze data -> Insights generated -> Model accuracy reaches 96% -> Processing costs reduced by 15%"
+    },
+    {
+      "id": 535,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "Bosch SDS",
+      "businessChallenge": "Bosch SDS, which supplies technology and services globally, has integrated sustainability into its core operations. Using Google Cloud Kubernetes, BigQuery, and Firebase to manage and scale solutions, build an AI-based cognition engine, and provide real-time alerts, Bosch SDS reduced energy costs by 12%, improved indoor comfort, and better usage of renewable energy.",
+      "techStack": [
+        "Google Kubernetes Engine",
+        "BigQuery",
+        "Firebase"
+      ],
+      "implementationBlueprint": "Operational data collected -> Cloud infrastructure scaled -> AI cognition engine analyzes signals -> Real-time alerts triggered -> Energy costs reduced and sustainability improved"
+    },
+    {
+      "id": 536,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "Climate Engine & Robeco",
+      "businessChallenge": "Climate Engine and Robeco are using AI and geospatial technologies with their scientific expertise and investment knowledge to inform how publicly traded companies’ actions impact biodiversity.",
+      "techStack": [
+        "AI Analytics",
+        "Geospatial Technology",
+        "Biodiversity Analysis"
+      ],
+      "implementationBlueprint": "Environmental data collected -> AI and geospatial models analyze impact -> Corporate actions evaluated -> Biodiversity insights generated -> Investment decisions informed"
+    },
+    {
+      "id": 537,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "Cohesity",
+      "businessChallenge": "Cohesity is integrating with Agentspace to provide employees with greater data discovery for better decision-making, while also increasing security.",
+      "techStack": [
+        "Agentspace",
+        "Data Discovery",
+        "Enterprise Security"
+      ],
+      "implementationBlueprint": "Enterprise data connected -> Agentspace enabled -> Data discovery improved -> Decisions supported -> Security strengthened"
+    },
+    {
+      "id": 538,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "Collato",
+      "businessChallenge": "Collato's Vertex AI-powered assistant allows users to instantly transform raw information, including audio recordings, text, and images, into structured, polished documents, enabling users to create documents, such as requirements documents and user research summaries, in a matter of seconds.",
+      "techStack": [
+        "Vertex AI",
+        "Multimodal Processing",
+        "Document Generation"
+      ],
+      "implementationBlueprint": "Raw content uploaded -> Vertex AI processes audio, text, and images -> Information structured -> Polished documents generated -> Work completed in seconds"
+    },
+    {
+      "id": 539,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "Contextual",
+      "businessChallenge": "Contextual is working with Google Cloud to offer enterprises fully customizable, trustworthy, privacy-aware AI grounded in internal knowledge bases.",
+      "techStack": [
+        "Google Cloud",
+        "Enterprise AI",
+        "Knowledge Grounding"
+      ],
+      "implementationBlueprint": "Internal knowledge connected -> Privacy-aware AI deployed -> Customization applied -> Trust ensured -> Enterprise insights delivered"
+    },
+    {
+      "id": 540,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "Elastic",
+      "businessChallenge": "Elastic, a leading search analytics company, partnered with Google Cloud to help SREs and SecOps use gen AI to interpret log messages and errors, optimize code, write reports, and even identify and execute a runbook.",
+      "techStack": [
+        "Google Cloud",
+        "Generative AI",
+        "Log Analytics"
+      ],
+      "implementationBlueprint": "Logs and errors ingested -> Gen AI interprets signals -> Code optimized -> Reports generated -> Runbooks identified and executed"
+    },
+    {
+      "id": 541,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "Eon.io",
+      "businessChallenge": "Eon.io, a startup focused on instant cloud backups and autonomous posture management, has begun working with Google Cloud through its partnership with Lightspeed Capital, adding new AI search capabilities to its platform.",
+      "techStack": [
+        "Google Cloud",
+        "AI Search",
+        "Cloud Backup"
+      ],
+      "implementationBlueprint": "Cloud data backed up -> AI search integrated -> Platform posture analyzed -> Insights surfaced -> Backup and security enhanced"
+    },
+    {
+      "id": 542,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "Essential AI",
+      "businessChallenge": "Essential AI, a developer of enterprise AI solutions, is using Google Cloud’s AI-optimized TPU v5p accelerator chips to train its own AI models.",
+      "techStack": [
+        "Google Cloud TPUs",
+        "AI Model Training",
+        "Enterprise AI"
+      ],
+      "implementationBlueprint": "AI models designed -> TPU v5p used for training -> Compute accelerated -> Models trained efficiently -> Enterprise AI delivered"
+    },
+    {
+      "id": 543,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "fileAI",
+      "businessChallenge": "fileAI leverages proprietary AI to automate the processing of any file end-to-end directly into any system without manual intervention. Built for finance, logistics, and insurance teams, fileAI's AI workflows unlock unstructured data in 90% less time, saving users up to 80% in costs.",
+      "techStack": [
+        "Proprietary AI",
+        "Document Automation",
+        "Unstructured Data"
+      ],
+      "implementationBlueprint": "Files ingested -> AI processes end-to-end -> Unstructured data extracted -> Systems updated automatically -> Time and costs reduced"
+    },
+    {
+      "id": 544,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "Guane",
+      "businessChallenge": "Guane, a company dedicated to process automation and data analysis, uses generative AI to extract data from legal and logistical documents, and to customize solutions according to each client's needs.",
+      "techStack": [
+        "Generative AI",
+        "Process Automation",
+        "Document Analysis"
+      ],
+      "implementationBlueprint": "Documents received -> Gen AI extracts data -> Information structured -> Solutions customized -> Client workflows automated"
+    },
+    {
+      "id": 545,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "Hebbia",
+      "businessChallenge": "Hebbia, the AI platform for knowledge work, has integrated Gemini models into its Matrix platform, which helps organizations build AI agents capable of working across all of their data.",
+      "techStack": [
+        "Gemini Models",
+        "Knowledge AI",
+        "AI Agents"
+      ],
+      "implementationBlueprint": "Enterprise data connected -> Gemini models integrated -> AI agents built -> Cross-data reasoning enabled -> Knowledge work accelerated"
+    },
+    {
+      "id": 546,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "Hugging Face",
+      "businessChallenge": "Hugging Face is collaborating with Google across open science, open source, cloud, and hardware to enable companies to build their own AI with the latest open models from Hugging Face and Google Cloud hardware and software.",
+      "techStack": [
+        "Open Source Models",
+        "Google Cloud",
+        "AI Infrastructure"
+      ],
+      "implementationBlueprint": "Open models accessed -> Google Cloud infrastructure used -> AI systems built -> Open science enabled -> Innovation scaled"
+    },
+    {
+      "id": 547,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "Humanizadas",
+      "businessChallenge": "Humanizadas specializes in data intelligence for companies and used Gemini to automate the classification of online comments as toxic or those that identify people; it also optimized the extraction of information from PDFs. These have reduced the time required for these operational processes by 95%.",
+      "techStack": [
+        "Gemini",
+        "Data Intelligence",
+        "Content Classification"
+      ],
+      "implementationBlueprint": "Online content collected -> Gemini classifies toxicity -> PDFs analyzed -> Information extracted -> Processing time reduced by 95%"
+    },
+    {
+      "id": 548,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "Infosys",
+      "businessChallenge": "Infosys, a global leader in next-generation digital services and consulting, optimizes digital marketplaces for a leading consumer brand manufacturer on Google Cloud, providing actionable insights on inventory planning, promotions, and product descriptions.",
+      "techStack": [
+        "Google Cloud",
+        "Marketplace Analytics",
+        "Inventory Insights"
+      ],
+      "implementationBlueprint": "Marketplace data collected -> Google Cloud analytics applied -> Inventory and promotions optimized -> Product insights generated -> Business performance improved"
+    },
+    {
+      "id": 549,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "Intelligencia AI",
+      "businessChallenge": "Intelligencia AI is using AI models to research novel new drugs, relying on Google Cloud’s AI-optimized infrastructure to deliver scalable research that is accurate and transparent to meet the stringent needs of medicine.",
+      "techStack": [
+        "AI Drug Discovery",
+        "Google Cloud",
+        "Medical Research"
+      ],
+      "implementationBlueprint": "Research data collected -> AI models analyze compounds -> Cloud infrastructure scales research -> Accuracy ensured -> Drug discovery accelerated"
+    },
+    {
+      "id": 550,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "Kakao Brain",
+      "businessChallenge": "Kakao Brain, part of Kakao Group, has built a large-scale AI language model that is the largest Korean language-specific LLM in the market with 66 billion parameters, and also developed a text-to-image generator called Karlo.",
+      "techStack": [
+        "Large Language Models",
+        "Text-to-Image",
+        "AI Research"
+      ],
+      "implementationBlueprint": "LLM trained with 66B parameters -> Korean language optimized -> Karlo text-to-image built -> Multimodal AI delivered -> Market leadership achieved"
+    },
+    {
+      "id": 551,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "Mistral AI",
+      "businessChallenge": "Mistral AI has partnered with Google Cloud to offer its range of models — including Codestral for code generation and Mistral Large 24.11 for complex tasks like agentic workflows — on Vertex AI.",
+      "techStack": [
+        "Vertex AI",
+        "Mistral Models",
+        "Code Generation"
+      ],
+      "implementationBlueprint": "Models hosted on Vertex AI -> Codestral enables coding -> Large models handle agentic workflows -> Enterprises adopt -> Complex tasks automated"
+    },
+    {
+      "id": 552,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "Naologic",
+      "businessChallenge": "Naologic utilizes AI to integrate with and optimize a company's existing platforms, automating business processes and generating unique source code for each customer, resulting in improved query response times, enhanced scalability, and the ability to build customized RAG applications.",
+      "techStack": [
+        "AI Automation",
+        "RAG Applications",
+        "System Integration"
+      ],
+      "implementationBlueprint": "Platforms integrated -> AI automates workflows -> Custom code generated -> RAG apps built -> Performance and scalability improved"
+    },
+    {
+      "id": 553,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "NVIDIA",
+      "businessChallenge": "NVIDIA is offering Google Distributed Cloud with Gemini on its NVIDIA Blackwell processors, along with NVIDIA Confidential Computing, making AI available at the edge in new ways for regulated industries and countries.",
+      "techStack": [
+        "Google Distributed Cloud",
+        "Gemini",
+        "NVIDIA Blackwell"
+      ],
+      "implementationBlueprint": "Edge infrastructure deployed -> Gemini enabled -> Blackwell processors accelerate AI -> Confidential computing applied -> Regulated industries supported"
+    },
+    {
+      "id": 554,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "OpenText",
+      "businessChallenge": "OpenText offers its managed services on Google Cloud, enabling users to quickly find fast, accurate answers to inquiries that span a broad set of business domains, such as DevOps, customer service, and content management.",
+      "techStack": [
+        "Google Cloud",
+        "Enterprise Search",
+        "Managed Services"
+      ],
+      "implementationBlueprint": "Enterprise data indexed -> Cloud services manage queries -> Fast answers retrieved -> Multiple domains covered -> User productivity improved"
+    },
+    {
+      "id": 555,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "Oracle",
+      "businessChallenge": "Oracle has now integrated the full range of Oracle Database services, running on OCI, with BigQuery, Gemini, and Vertex AI.",
+      "techStack": [
+        "Oracle Database",
+        "BigQuery",
+        "Vertex AI"
+      ],
+      "implementationBlueprint": "Oracle DB runs on OCI -> BigQuery integrated -> Gemini and Vertex AI applied -> Cross-platform analytics enabled -> Enterprise insights delivered"
+    },
+    {
+      "id": 556,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "Persistent Systems",
+      "businessChallenge": "Persistent Systems has developed FinSight, a tool for analyzing financial documents Form 10-K or investment prospecta, allowing users to query the documents using natural language facilitated on Gemini models.",
+      "techStack": [
+        "Gemini",
+        "Financial Document Analysis",
+        "Natural Language Query"
+      ],
+      "implementationBlueprint": "Financial documents uploaded -> Gemini processes content -> Natural language queries enabled -> Insights surfaced -> Financial analysis accelerated"
+    },
+    {
+      "id": 557,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "StarCloud",
+      "businessChallenge": "StarCloud, part of the Google for Startups Cloud AI Accelerator, wants to transform the paradigm of hyperscale data centers, enabling the future of AI by providing the largest training clusters on data centers in space.",
+      "techStack": [
+        "AI Training Infrastructure",
+        "Cloud AI Accelerator",
+        "Hyperscale Compute"
+      ],
+      "implementationBlueprint": "Space-based data centers designed -> Massive training clusters deployed -> AI workloads supported -> Hyperscale paradigm shifted -> Future AI enabled"
+    },
+    {
+      "id": 558,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "Story",
+      "businessChallenge": "Story, a purpose-built intellectual property blockchain, is working with Google Cloud to use its Web3 services and infrastructure to bring new capabilities to developers on its platform.",
+      "techStack": [
+        "Blockchain",
+        "Web3",
+        "Google Cloud"
+      ],
+      "implementationBlueprint": "IP blockchain built -> Google Cloud Web3 used -> Developer tools enabled -> New capabilities delivered -> Ecosystem expanded"
+    },
+    {
+      "id": 559,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "SuperSign",
+      "businessChallenge": "SuperSign’s platform facilitates digital contract signing processes with Gemini, as well as creating solutions focused on contract summaries and comparisons, opening up new opportunities in the market.",
+      "techStack": [
+        "Gemini",
+        "Digital Contracts",
+        "Document Summarization"
+      ],
+      "implementationBlueprint": "Contracts uploaded -> Gemini summarizes and compares -> Digital signing enabled -> Processes streamlined -> New market opportunities created"
+    },
+    {
+      "id": 560,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "Teradata",
+      "businessChallenge": "Teradata helps analyze, categorize, and summarize customer inquiries or complaints by using Google Cloud’s multimodal capabilities to process text and voice data, identify key trends, and uncover actionable insights to enhance customer loyalty.",
+      "techStack": [
+        "Google Cloud",
+        "Multimodal AI",
+        "Customer Analytics"
+      ],
+      "implementationBlueprint": "Customer text and voice ingested -> Multimodal AI analyzes -> Trends identified -> Insights uncovered -> Customer loyalty enhanced"
+    },
+    {
+      "id": 561,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "ThoughtSpot",
+      "businessChallenge": "ThoughtSpot uses its AI agent — Spotter — to empower customers to do deep data analysis using autonomous analytics capabilities and an AI-powered chat interface.",
+      "techStack": [
+        "AI Analytics",
+        "Autonomous Agents",
+        "Chat Interface"
+      ],
+      "implementationBlueprint": "Data connected -> Spotter AI analyzes -> Autonomous insights generated -> Chat interface enables queries -> Deep analysis delivered"
+    },
+    {
+      "id": 562,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "Zippedi",
+      "businessChallenge": "Zippedi, a Chilean data capture platform, uses Google Cloud’s gen AI to power its robots and deliver real-time insights to its customers. These AI-powered robots store and process information to generate insights that optimize decision-making.",
+      "techStack": [
+        "Google Cloud Gen AI",
+        "Robotics",
+        "Real-time Insights"
+      ],
+      "implementationBlueprint": "Robots capture store data -> Gen AI processes information -> Insights generated in real time -> Decisions optimized -> Retail performance improved"
+    },
+    {
+      "id": 563,
+      "industry": "Technology",
+      "agentType": "Security Agents",
+      "company": "Anjuna Security",
+      "businessChallenge": "Anjuna Security, a leader in Confidential Computing, is partnering with Google Cloud to enable the secure and trustworthy use of enterprise AI workloads in the cloud. Leveraging Confidential VMs on C3 machines with Intel TDX technology, the solution ensures that data, code and models remain protected at all times — even during processing — eliminating risks of unauthorized access and tampering.",
+      "techStack": [
+        "Google Cloud",
+        "Confidential VMs",
+        "Intel TDX"
+      ],
+      "implementationBlueprint": "Enterprise AI workload deployed -> Confidential VMs enabled -> Intel TDX secures memory -> Data and models protected during processing -> Unauthorized access eliminated"
+    },
+    {
+      "id": 564,
+      "industry": "Technology",
+      "agentType": "Security Agents",
+      "company": "AppOmni",
+      "businessChallenge": "AppOmni harnesses the diverse capabilities of Vertex AI in its gen AI-powered security company, AskOmni, to provide deeper intelligent contextual security assessments to help customers manage SaaS security more efficiently.",
+      "techStack": [
+        "Vertex AI",
+        "Generative AI",
+        "SaaS Security"
+      ],
+      "implementationBlueprint": "SaaS data analyzed -> Vertex AI powers AskOmni -> Contextual assessments generated -> Security risks identified -> SaaS environments secured"
+    },
+    {
+      "id": 565,
+      "industry": "Technology",
+      "agentType": "Security Agents",
+      "company": "Behavox",
+      "businessChallenge": "Behavox is using Google Cloud technology and LLMs to provide industry-leading regulatory compliance and front office solutions for financial institutions globally.",
+      "techStack": [
+        "Google Cloud",
+        "Large Language Models",
+        "Regulatory Compliance"
+      ],
+      "implementationBlueprint": "Financial data ingested -> LLMs analyze communications -> Compliance risks detected -> Front office insights generated -> Institutions remain compliant"
+    },
+    {
+      "id": 566,
+      "industry": "Technology",
+      "agentType": "Security Agents",
+      "company": "Broadcom",
+      "businessChallenge": "Broadcom is modernizing its infrastructure and building a scalable and secure platform for growth, including SymantecAI, powered by Vertex AI, to provide better security monitoring and Zero Trust protection.",
+      "techStack": [
+        "Vertex AI",
+        "SymantecAI",
+        "Zero Trust"
+      ],
+      "implementationBlueprint": "Infrastructure modernized -> SymantecAI deployed -> Security signals monitored -> Zero Trust enforced -> Enterprise protected at scale"
+    },
+    {
+      "id": 567,
+      "industry": "Technology",
+      "agentType": "Security Agents",
+      "company": "Exabeam",
+      "businessChallenge": "Exabeam has built a gen AI copilot for security analysts into its New-Scale Security Operations Platform.",
+      "techStack": [
+        "Generative AI",
+        "Security Copilot",
+        "Security Operations"
+      ],
+      "implementationBlueprint": "Security data collected -> Gen AI copilot assists analysts -> Threats investigated faster -> Responses accelerated -> SOC efficiency improved"
+    },
+    {
+      "id": 568,
+      "industry": "Technology",
+      "agentType": "Security Agents",
+      "company": "NetRise",
+      "businessChallenge": "NetRise developed Trace to provide software supply chain security by introducing AI-powered intent-driven searches; these allow users to search their assets based on the underlying motives or purposes behind the code and configurations, rather than solely relying on signature-based methods.",
+      "techStack": [
+        "AI Search",
+        "Software Supply Chain Security",
+        "Intent Analysis"
+      ],
+      "implementationBlueprint": "Code assets ingested -> AI analyzes intent -> Purpose-driven searches enabled -> Supply chain risks uncovered -> Security posture improved"
+    },
+    {
+      "id": 569,
+      "industry": "Technology",
+      "agentType": "Security Agents",
+      "company": "NewPush",
+      "businessChallenge": "NewPush, a cybersecurity company, uses Google Workspace to significantly improve efficiency and security. Gemini automates time-consuming tasks like threat research and content creation, saving analysts 12 hours a week, allowing employees to focus on more strategic work.",
+      "techStack": [
+        "Google Workspace",
+        "Gemini",
+        "Threat Research"
+      ],
+      "implementationBlueprint": "Threat data reviewed -> Gemini automates research -> Content generated -> 12 hours saved weekly -> Analysts focus on strategy"
+    },
+    {
+      "id": 570,
+      "industry": "Technology",
+      "agentType": "Security Agents",
+      "company": "Palo Alto Networks",
+      "businessChallenge": "Palo Alto Networks is using Gemini to create a grounded AI assistant for 24/7 security platform support in order to improve agent efficiency and response time; grounding the assistant in organizational data and security protocols has greatly improved the accuracy of responses.",
+      "techStack": [
+        "Gemini",
+        "AI Assistant",
+        "Security Operations"
+      ],
+      "implementationBlueprint": "Security queries received -> Gemini assistant responds -> Organizational data grounding applied -> Accuracy improved -> 24/7 support delivered"
+    },
+    {
+      "id": 571,
+      "industry": "Technology",
+      "agentType": "Security Agents",
+      "company": "Palo Alto Networks Cortex XSIAM",
+      "businessChallenge": "Palo Alto Networks’ Cortex XSIAM, its AI-driven security operations platform, is built on more than a decade of expertise in machine learning models and the most comprehensive, rich, and diverse data store in the industry.",
+      "techStack": [
+        "AI Security Operations",
+        "Machine Learning",
+        "Threat Intelligence"
+      ],
+      "implementationBlueprint": "Security telemetry collected -> ML models analyze data -> Threats correlated -> Actions orchestrated -> Security operations unified"
+    },
+    {
+      "id": 572,
+      "industry": "Technology",
+      "agentType": "Security Agents",
+      "company": "Rapid7",
+      "businessChallenge": "Rapid7 worked with Ask AI to implement Gemini models for more efficient cybersecurity support, delivering a 30% decrease in case handling times and a 35% increase in agent capacity for better customer experiences.",
+      "techStack": [
+        "Gemini",
+        "Cybersecurity Support",
+        "AI Case Management"
+      ],
+      "implementationBlueprint": "Support cases received -> Gemini assists agents -> Resolution accelerated -> Case handling reduced 30% -> Agent capacity increased 35%"
+    },
+    {
+      "id": 573,
+      "industry": "Technology",
+      "agentType": "Security Agents",
+      "company": "Securiti AI",
+      "businessChallenge": "Securiti AI has pioneered AI risk management and security with its Data + AI Command Center, a centralized platform that enables the safe use of data and gen AI, providing unified data intelligence, controls, and orchestration across hybrid multicloud environments.",
+      "techStack": [
+        "AI Risk Management",
+        "Data Intelligence",
+        "Hybrid Multicloud"
+      ],
+      "implementationBlueprint": "Enterprise data connected -> AI Command Center deployed -> Risks assessed -> Controls orchestrated -> Safe AI usage ensured"
+    },
+    {
+      "id": 574,
+      "industry": "Technology",
+      "agentType": "Security Agents",
+      "company": "Spot AI",
+      "businessChallenge": "Spot AI, a video AI startup, transforms passive security cameras into AI agents for improving security, safety, and operations in industries like manufacturing, retail, hospitals, construction and more. The team is using Google Cloud to power Iris — its new interface for building custom video AI agents.",
+      "techStack": [
+        "Video AI",
+        "Google Cloud",
+        "Computer Vision"
+      ],
+      "implementationBlueprint": "Camera feeds ingested -> Video AI analyzes footage -> AI agents detect events -> Insights generated -> Security and safety improved"
+    },
+    {
+      "id": 575,
+      "industry": "Technology",
+      "agentType": "Security Agents",
+      "company": "Thales",
+      "businessChallenge": "Thales is developing a global Security Operation Centre platform based on Google Cloud cybersecurity technologies and expertise, including Google Security Operations platform, VirusTotal, and Mandiant Threat Intelligence, all powered by gen AI.",
+      "techStack": [
+        "Google Security Operations",
+        "VirusTotal",
+        "Mandiant Threat Intelligence"
+      ],
+      "implementationBlueprint": "Threat data collected -> Gen AI analyzes signals -> Intelligence correlated -> Global SOC enabled -> Threat response strengthened"
+    },
+    {
+      "id": 576,
+      "industry": "Technology",
+      "agentType": "Security Agents",
+      "company": "Transparently.AI",
+      "businessChallenge": "Transparently.AI's Manipulation Risk Analyzer generates highly accurate risk reports for any organization — and for any financial year — within seconds, using AI algorithms to dig deep into large financial data sets, unearthing accounting red flags that the human eye might miss.",
+      "techStack": [
+        "AI Risk Analysis",
+        "Financial Data",
+        "Fraud Detection"
+      ],
+      "implementationBlueprint": "Financial data analyzed -> AI algorithms detect anomalies -> Risk reports generated -> Red flags uncovered -> Financial transparency improved"
+    },
+    {
+      "id": 577,
+      "industry": "Technology",
+      "agentType": "Security Agents",
+      "company": "Unico",
+      "businessChallenge": "Unico, a Brazilian technology company that validates people's real identities to ensure data privacy, puts Google Cloud's AI technologies at the core of some of its data protection solutions to help manage scale and security.",
+      "techStack": [
+        "Google Cloud AI",
+        "Identity Verification",
+        "Data Privacy"
+      ],
+      "implementationBlueprint": "Identity data submitted -> AI validates identities -> Privacy protections applied -> Scale managed -> Secure access ensured"
+    },
+    {
+      "id": 578,
+      "industry": "Technology",
+      "agentType": "Security Agents",
+      "company": "Wiz",
+      "businessChallenge": "Wiz, an Israeli cloud security startup, helps security teams empower its data teams to deploy more useful AI applications faster and more responsibly; the startup created a Vertex AI integration that helps monitor and manage the security risks associated with running AI models.",
+      "techStack": [
+        "Vertex AI",
+        "Cloud Security",
+        "AI Risk Monitoring"
+      ],
+      "implementationBlueprint": "AI models deployed -> Vertex AI integration monitors risks -> Security insights generated -> Responsible AI enforced -> Cloud environments secured"
+    },
+    {
+      "id": 579,
+      "industry": "Technology",
+      "agentType": "Customer Agents",
+      "company": "Bell Canada",
+      "businessChallenge": "Bell Canada has built customizable contact center solutions for its business customers that offer AI-powered agents to address callers, and Agent Assist, which listens when a human agent is on, offering suggestions and sentiment analysis. AI has contributed $20 million in savings across customer operations.",
+      "techStack": [
+        "AI-powered Agents",
+        "Agent Assist",
+        "Sentiment Analysis"
+      ],
+      "implementationBlueprint": "Customer calls received -> AI agents handle interactions -> Agent Assist supports human agents -> Sentiment analyzed -> $20M operational savings achieved"
+    },
+    {
+      "id": 580,
+      "industry": "Technology",
+      "agentType": "Customer Agents",
+      "company": "Telecom Italia (TIM)",
+      "businessChallenge": "Telecom Italia (TIM) implemented a Google-powered voice agent to address many customer calls, increasing efficiency by 20%.",
+      "techStack": [
+        "Google-powered Voice Agent",
+        "Conversational AI",
+        "Customer Support"
+      ],
+      "implementationBlueprint": "Customer calls received -> Voice agent responds -> Issues resolved automatically -> Call load reduced -> Efficiency increased by 20%"
+    },
+    {
+      "id": 581,
+      "industry": "Technology",
+      "agentType": "Employee Agents",
+      "company": "TELUS",
+      "businessChallenge": "TELUS has democratized access to AI across the organization, creating a sandbox of internal gen AI tools with built-in privacy and security controls. Whether analyzing complex reports and legal documents, improving field operations, or troubleshooting IT issues, more than 50,000 TELUS team members regularly use AI in their daily tasks and report saving an average of 40 minutes per process.",
+      "techStack": [
+        "Generative AI",
+        "Privacy Controls",
+        "Enterprise AI Tools"
+      ],
+      "implementationBlueprint": "Employees access AI sandbox -> Secure gen AI tools used -> Reports and documents analyzed -> Operations optimized -> 40 minutes saved per process"
+    },
+    {
+      "id": 582,
+      "industry": "Technology",
+      "agentType": "Employee Agents",
+      "company": "TIM Brasil",
+      "businessChallenge": "TIM Brasil uses Google Cloud gen AI to transcribe audio of calls made for customer service, and then classify, summarize, and qualify the customer's demand with increasing precision. The solution assists agents with their work and provides feedback to the team on best practices.",
+      "techStack": [
+        "Google Cloud Gen AI",
+        "Speech Transcription",
+        "Call Analytics"
+      ],
+      "implementationBlueprint": "Customer calls recorded -> Audio transcribed -> Calls classified and summarized -> Agent guidance provided -> Best practices reinforced"
+    },
+    {
+      "id": 583,
+      "industry": "Technology",
+      "agentType": "Employee Agents",
+      "company": "Verizon",
+      "businessChallenge": "Verizon is using gen AI to help teams in network operations and customer experience get the answers they need faster.",
+      "techStack": [
+        "Generative AI",
+        "Network Operations",
+        "Knowledge Retrieval"
+      ],
+      "implementationBlueprint": "Operational queries raised -> Gen AI searches knowledge -> Answers surfaced quickly -> Network and CX teams supported -> Resolution speed improved"
+    },
+    {
+      "id": 584,
+      "industry": "Technology",
+      "agentType": "Employee Agents",
+      "company": "Vodafone",
+      "businessChallenge": "Vodafone uses Vertex AI to search and understand specific commercial terms and conditions across more than 10,000 contracts with more than 800 communications operators.",
+      "techStack": [
+        "Vertex AI",
+        "Contract Analysis",
+        "Enterprise Search"
+      ],
+      "implementationBlueprint": "Contracts ingested -> Vertex AI indexes content -> Commercial terms analyzed -> Insights retrieved -> Contract understanding improved"
+    },
+    {
+      "id": 585,
+      "industry": "Technology",
+      "agentType": "Employee Agents",
+      "company": "Vodafone & Quantexa",
+      "businessChallenge": "Vodafone also worked with Quantexa to provide clear customer insights and actionable decision intelligence with a 360-customer view for improved service experiences, built on Google Cloud and Quantexa’s Decision Intelligence platform.",
+      "techStack": [
+        "Google Cloud",
+        "Quantexa Decision Intelligence",
+        "Customer Insights"
+      ],
+      "implementationBlueprint": "Customer data unified -> Decision Intelligence applied -> 360-degree view created -> Actionable insights generated -> Service experience improved"
+    },
+    {
+      "id": 586,
+      "industry": "Technology",
+      "agentType": "Code Agents",
+      "company": "Nokia",
+      "businessChallenge": "Nokia leverages Vertex AI and Gemini 1.5 Pro to enhance its Network as Code platform, enabling developers to create 5G applications faster with enriched AI capabilities. This collaboration targets various industries, starting with healthcare, to improve telehealth experiences and promote innovation within Google Cloud's developer community.",
+      "techStack": [
+        "Vertex AI",
+        "Gemini 1.5 Pro",
+        "5G Network as Code"
+      ],
+      "implementationBlueprint": "Network as Code platform enhanced -> Vertex AI and Gemini integrated -> Developers build 5G apps faster -> Industry-specific use cases enabled -> Innovation promoted in developer community"
+    },
+    {
+      "id": 587,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "BT Group",
+      "businessChallenge": "BT Group is taking advantage of AI to deliver democratization of data for enhanced customer experience and security. Getting things done faster and with greater productivity has become a steady state.",
+      "techStack": [
+        "Artificial Intelligence",
+        "Data Democratization",
+        "Enterprise Analytics"
+      ],
+      "implementationBlueprint": "Enterprise data unified -> AI enables broad access -> Insights democratized -> Customer experience improved -> Productivity increased"
+    },
+    {
+      "id": 588,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "Cox 2M",
+      "businessChallenge": "Cox 2M, the commercial IoT division of Cox Communications, has reduced the time to insights for non-technical users by 88% with natural-language chat and gen AI using Gemini and ThoughtSpot.",
+      "techStack": [
+        "Gemini",
+        "ThoughtSpot",
+        "Natural Language Analytics"
+      ],
+      "implementationBlueprint": "IoT data collected -> Natural language chat enabled -> Gemini and ThoughtSpot analyze data -> Insights surfaced quickly -> Time to insight reduced by 88%"
+    },
+    {
+      "id": 589,
+      "industry": "Technology",
+      "agentType": "Data Agents",
+      "company": "Orange",
+      "businessChallenge": "Orange operates in 26 countries where local data must be kept in each country. They are using AI on Google Distributed Cloud to improve network performance and deliver super-responsive translation capabilities.",
+      "techStack": [
+        "Google Distributed Cloud",
+        "Artificial Intelligence",
+        "Real-time Translation"
+      ],
+      "implementationBlueprint": "Local data retained per country -> Distributed Cloud deployed -> AI optimizes network performance -> Translation capabilities enabled -> Regional compliance maintained"
+    },
+    {
+      "id": 590,
+      "industry": "Technology",
+      "agentType": "Security Agents",
+      "company": "Vertiv",
+      "businessChallenge": "Vertiv is detecting 3x the number of cyber events and closing investigations 50% faster by using the AI-powered Google Security Operations platform.",
+      "techStack": [
+        "Google Security Operations",
+        "AI-powered Security",
+        "Threat Detection"
+      ],
+      "implementationBlueprint": "Security telemetry collected -> Google Security Operations analyzes -> Cyber events detected at scale -> Investigations accelerated -> 3x detection and 50% faster closures achieved"
+    },
+    {
+      "id": 591,
+      "industry": "Technology",
+      "agentType": "Security Agents",
+      "company": "Vodafone",
+      "businessChallenge": "Vodafone used Vertex AI along with open-source tools and Google Cloud's security foundation to establish a robust, data-driven AI security governance layer that serves more than 50,000 internal customers.",
+      "techStack": [
+        "Vertex AI",
+        "Google Cloud Security",
+        "AI Governance"
+      ],
+      "implementationBlueprint": "Security foundation established -> Vertex AI integrated -> Governance layer built -> Open-source tools applied -> 50K internal users securely supported"
     }
   ]
 }

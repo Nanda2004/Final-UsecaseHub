@@ -1,5 +1,6 @@
 import { useEffect } from 'react';
 import styles from '../styles/UsecaseModal.module.css';
+import { generateUsecaseId } from '../utils/utils';
 
 function UsecaseModal({ usecase, onClose }) {
     // Close on ESC key
@@ -35,7 +36,7 @@ function UsecaseModal({ usecase, onClose }) {
 
                 <div className={styles.modalBody}>
                     <div className={styles.modalTitleSection}>
-                        <span className={styles.usecaseNumber}>Use Case #{usecase.usecase_id}</span>
+                        <span className={styles.usecaseNumber}>{generateUsecaseId(usecase.usecase_id)}</span>
                         <h2 className={styles.modalTitle}>{usecase.title}</h2>
                     </div>
 
